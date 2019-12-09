@@ -4,3 +4,4 @@
 .Ruserdata
 *fastq*
 *ITSxpress.log
+*.~lock*
