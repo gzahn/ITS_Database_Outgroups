@@ -33,7 +33,7 @@ for(i in runtables){
   # assign run table
   runtable <- read.csv(i,stringsAsFactors = FALSE)
   # Get frame of SRA Accessions and metadata
-  accessions <- runtable$Run[1] # remove limitation of 1 after test runs
+  accessions <- runtable$Run[1:5] # remove limitation of 1:5 after test runs
   
   # nested loop iterates through Accession List within each project directory
   for(j in accessions){
