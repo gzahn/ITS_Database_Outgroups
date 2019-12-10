@@ -2,9 +2,9 @@
 Comparing "standard" UNITE taxonomic assignments with UNITE+Outgroups in published fungal ITS1 studies
 
 
-**Workflow:**
+## **Workflow:**
 
-This simple BASH script runs the following 3 R scripts to generate 3 phyloseq objects for each study listed in "./metadata/Study_List.xlsx"
+### This simple BASH script runs the following 3 R scripts to generate 3 phyloseq objects for each study listed in "./metadata/Study_List.xlsx"
 
 ```
 bash ./01_download_data_and_make_ps.sh
