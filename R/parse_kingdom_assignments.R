@@ -19,7 +19,7 @@ project_directories <- file.path(datapath,list.files(datapath))
 for(i in project_directories){
 
   y=1
-  for(j in list.files(file.path(i),pattern = "taxonomy.RDS",full.names = TRUE)){
+  for(j in list.files(file.path(i),pattern = ".RDS",full.names = TRUE)){
     
     # load data ####
     ps <- readRDS(j)

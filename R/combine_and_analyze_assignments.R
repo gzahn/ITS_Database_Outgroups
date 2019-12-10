@@ -22,12 +22,18 @@ for(i in assignment_files){
   x=x+1
 }
 
+
 # join them all together with full_join() ####
-for(obj in 1:length(dfs)){
-  df = get(dfs[1])
-  assign(x="full",value = full_join(df,get(dfs[obj])),envir = .GlobalEnv)
-  assign(x="full",value = full_join(full,get(dfs[obj])),envir = .GlobalEnv)
-}
+obj_list = sapply(dfs,get)
+full <- purrr::reduce(obj_list, full_join,by=names(which(table(unlist(sapply(obj_list,names))) == length(obj_list))),all=TRUE)
+
+
+
+# for(obj in 1:length(dfs)){
+#   df = get(dfs[1])
+#   assign(x="full",value = full_join(df,get(dfs[obj])),envir = .GlobalEnv)
+#   assign(x="full",value = full_join(full,get(dfs[obj])),envir = .GlobalEnv)
+# }
 
 # Tidy the full data frame ####
 names(full)[names(full)=="Var1"] <- "Kingdom"
@@ -37,6 +43,7 @@ full$Kingdom <- unlist(purrr::map(str_split(full$Kingdom,"k__"),2))
 full$DB[full$DB=="all_taxonomy"] <- "UNITE_Euk"
 full$DB[full$DB=="fungi_taxonomy"] <- "UNITE"
 full$DB[full$DB=="ncbi_taxonomy"] <- "UNITE+NCBI"
+
 
 # Pick up here ......... ####
 
@@ -48,7 +55,7 @@ full$DB[full$DB=="ncbi_taxonomy"] <- "UNITE+NCBI"
 
 ggplot(full,aes(x=DB,y=Proportion,fill=Kingdom)) +
   geom_bar(stat="identity") +
-  facet_wrap(~Project)
+  facet_wrap(~Main_Organism)
 
 
 # models
