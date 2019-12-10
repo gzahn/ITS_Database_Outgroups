@@ -12,7 +12,7 @@ bash ./01_download_data_and_make_ps.sh
     + "./R/Download_Fastqs.R"
 2. Extract ITS1 region
     + "./R/Extract_ITS1.R"
-3. Process each project with DADA2, assign taxonomy both ways, save phyloseq objects
+3. Process each project with DADA2, assign taxonomy with each database, save phyloseq objects
     + "./R/make_phyloseq_objects.R"
 
 
