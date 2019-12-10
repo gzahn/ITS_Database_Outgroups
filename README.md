@@ -4,7 +4,9 @@ Comparing "standard" UNITE taxonomic assignments with UNITE+Outgroups in publish
 
 **Workflow:**
 
+```
 bash ./01_download_data_and_make_ps.sh
+```
 
 1. Download sequence data from all SRA accessions listed in "./metadata/Study_List.xlsx" keeping only FWD reads
     + "./R/Download_Fastqs.R"
