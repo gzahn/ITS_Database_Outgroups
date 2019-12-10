@@ -105,19 +105,19 @@ for(i in project_directories){
   ps.fungi <- phyloseq(otu_table(seqtab.nochim, taxa_are_rows=FALSE), 
                        sample_data(meta), 
                        tax_table(unite_fungi))
-  saveRDS(ps.fungi, file = file.path(i,"ps_UNITE-fungi_taxonomy.RDS"))
+  saveRDS(ps.fungi, file = file.path(i,"ps-UNITE_fungi.RDS"))
   rm(list=c("ps.fungi","unite_fungi"))
 
   ps.all <- phyloseq(otu_table(seqtab.nochim, taxa_are_rows=FALSE), 
                           sample_data(meta), 
                           tax_table(unite_all))
-  saveRDS(ps.all, file = file.path(i,"ps_UNITE-all_taxonomy.RDS"))
+  saveRDS(ps.all, file = file.path(i,"ps-UNITE_allEuks.RDS"))
   rm(list=c("ps.all","unite_all"))
      
   ps.ncbi <- phyloseq(otu_table(seqtab.nochim, taxa_are_rows=FALSE), 
                          sample_data(meta), 
                          tax_table(unite_ncbi))
-  saveRDS(ps.ncbi,file = file.path(i,"ps_UNITE-ncbi_taxonomy.RDS"))
+  saveRDS(ps.ncbi,file = file.path(i,"ps-UNITE_allNCBI.RDS"))
   rm(list=c("ps.ncbi","unite_ncbi"))
      
 }
