@@ -11,13 +11,13 @@ library(tidyverse)
 # find .csv files ####
 datapath <- "./data"
 project_directories <- file.path(datapath,list.files(datapath))
-assignment_files <- list.files(project_directories,pattern = "_kingdom.csv",full.names = TRUE)
+assignment_files <- list.files(project_directories,pattern = "_kingdom.RDS",full.names = TRUE)
 
 # load and combine kingdom-level data frames from each study ####
 x=1
 dfs=c()
 for(i in assignment_files){
-  assign(x=paste0(basename(i)),value=read.csv(i,stringsAsFactors = FALSE),envir = .GlobalEnv)
+  assign(x=paste0(basename(i)),value=readRDS(i),envir = .GlobalEnv)
   dfs[x] <- paste0(basename(i))
   x=x+1
 }
@@ -27,13 +27,6 @@ for(i in assignment_files){
 obj_list = sapply(dfs,get)
 full <- purrr::reduce(obj_list, full_join,by=names(which(table(unlist(sapply(obj_list,names))) == length(obj_list))),all=TRUE)
 
-
-
-# for(obj in 1:length(dfs)){
-#   df = get(dfs[1])
-#   assign(x="full",value = full_join(df,get(dfs[obj])),envir = .GlobalEnv)
-#   assign(x="full",value = full_join(full,get(dfs[obj])),envir = .GlobalEnv)
-# }
 
 # Tidy the full data frame ####
 names(full)[names(full)=="Var1"] <- "Kingdom"

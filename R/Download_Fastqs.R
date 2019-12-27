@@ -9,7 +9,7 @@
 
 # find directories and files ####
 datapath <- "./data"
-project_directories <- file.path(datapath,list.files(datapath))
+project_directories <- file.path(list.dirs(datapath,recursive = FALSE))
 
 runtables <- list.files(datapath,recursive = TRUE,pattern = "SraRunTable",full.names = TRUE) 
 
@@ -33,7 +33,7 @@ for(i in runtables){
   # assign run table
   runtable <- read.csv(i,stringsAsFactors = FALSE)
   # Get frame of SRA Accessions and metadata
-  accessions <- runtable$Run[1:5] # remove limitation of 1:5 after test runs
+  accessions <- runtable$Run # remove limitation of 1:5 after test runs
   
   # nested loop iterates through Accession List within each project directory
   for(j in accessions){

@@ -15,7 +15,7 @@ getwd()
 for(i in project_directories){
 # Run raw sequences through itsxpress to extract fungal ITS1 regions (This takes several hours for each project!)
 system(paste0("cd ",i,"/seqs/;",
-              "for i in *_1.fastq.gz;",
+              "for i in *.fastq.gz;",
               "do /home/gzahn/miniconda3/bin/itsxpress ", # needs absolute file path!?
               "--fastq $i --single_end --outfile $i.ITS1.gz --region ITS1 --taxa Fungi --cluster_id 1 --threads 16;", 
               "done"),
