@@ -5,14 +5,18 @@
 # Requirements: itsxpress (available in miniconda3)
 # ------------------------------------------------------------------------------------------------#
 
+starttime <- Sys.time()
+
 
 # get directories
 datapath <- "./data"
 project_directories <- file.path(datapath,list.files(datapath))
 
-getwd()
+print("Extracting ITS1 Region")
 
 for(i in project_directories){
+  print(basename(i))
+
 # Run raw sequences through itsxpress to extract fungal ITS1 regions (This takes several hours for each project!)
 system(paste0("cd ",i,"/seqs/;",
               "for i in *.fastq.gz;",
@@ -22,3 +26,6 @@ system(paste0("cd ",i,"/seqs/;",
        wait = TRUE,intern = FALSE)
 }
 
+endtime <- Sys.time()
+elapsedtime <- difftime(endtime, starttime,units = "hours")
+print(elapsedtime)

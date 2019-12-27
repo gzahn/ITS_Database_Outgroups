@@ -5,6 +5,9 @@
 # Requirements: tidyverse v 1.2.1
 # ------------------------------------------------------------------------------------------------------------------------#
 
+starttime <- Sys.time()
+
+
 # packages ####
 library(tidyverse)
 
@@ -56,4 +59,18 @@ fungi <- full %>% filter(Kingdom == "Fungi")
 mod1 = aov(data=fungi, Proportion ~ DB + Project)
 summary(mod1)
 TukeyHSD(mod1)
+
+
+
+
+
+
+
+
+
+
+
+endtime <- Sys.time()
+elapsedtime <- difftime(endtime, starttime,units = "hours")
+print(elapsedtime)
 

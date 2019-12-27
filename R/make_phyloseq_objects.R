@@ -5,6 +5,7 @@
 # Requirements: dada2 v 1.9.0; phyloseq v 1.25.2; tidyverse v 1.2.1
 # ------------------------------------------------------------------------------------------------#
 
+starttime <- Sys.time()
 
 # Load packages ####
 library(phyloseq); packageVersion("phyloseq")
@@ -28,12 +29,15 @@ for(i in filtpath){
   if(!file_test("-d", i)) dir.create(i) 
 }
 
+print("QC Filtration ... ")
 
 
-# i=project_directories[1]
 # Filter and trim inside for-loop ####
 
 for(i in project_directories){
+  
+  print(basename(i))
+  
   
   # set up file paths and names
   fns <- sort(list.files(file.path(i,"seqs"), full.names = TRUE, pattern = "fastq.gz.ITS1.gz"))
@@ -122,3 +126,6 @@ for(i in project_directories){
      
 }
 
+endtime <- Sys.time()
+elapsedtime <- difftime(endtime, starttime,units = "hours")
+print(elapsedtime)

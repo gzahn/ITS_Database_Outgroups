@@ -5,6 +5,7 @@
 # Requirements: sra-toolkit v 2.9.2
 # ---------------------------------------------------------------------------------------------------------#
 
+starttime <- Sys.time()
 
 
 # find directories and files ####
@@ -32,6 +33,7 @@ x <- 1
 for(i in runtables){
   # assign run table
   runtable <- read.csv(i,stringsAsFactors = FALSE)
+  print(i)
   # Get frame of SRA Accessions and metadata
   accessions <- runtable$Run # remove limitation of 1:5 after test runs
   
@@ -41,10 +43,14 @@ for(i in runtables){
   }
   
   # remove reverse reads
+  print("Removing Reverse Reads, if any")
   seqpath <- file.path(project_directories[x],"seqs")
   file.remove(list.files(seqpath,pattern = "_pass_2.fastq.gz",full.names = TRUE))
   
   x <- x+1
 }
 
+endtime <- Sys.time()
+elapsedtime <- difftime(endtime, starttime,units = "hours")
+print(elapsedtime)
 

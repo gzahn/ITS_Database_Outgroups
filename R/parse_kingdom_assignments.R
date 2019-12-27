@@ -5,6 +5,9 @@
 # Requirements: phyloseq v 1.25.2; tidyverse v 1.2.1; vegan v 2.5-4
 # ------------------------------------------------------------------------------------------------------------------------#
 
+starttime <- Sys.time()
+
+
 # packages ####
 library(phyloseq)
 library(tidyverse)
@@ -125,3 +128,9 @@ for(i in project_directories){
   assign(x = paste0("df_",proj_name), value = rbind(df1,df2,df3))
   saveRDS(get(paste0("df_",proj_name)),file.path(i,paste0(proj_name,"_kingdom.RDS")))
 }
+
+
+endtime <- Sys.time()
+elapsedtime <- difftime(endtime, starttime,units = "hours")
+print(elapsedtime)
+
