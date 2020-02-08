@@ -11,6 +11,9 @@ starttime <- Sys.time()
 # get directories
 datapath <- "./data"
 project_directories <- file.path(datapath,list.files(datapath))
+getwd()
+#for testing only
+# project_directories <- project_directories[5]
 
 print("Extracting ITS1 Region")
 
@@ -21,7 +24,7 @@ for(i in project_directories){
 system(paste0("cd ",i,"/seqs/;",
               "for i in *.fastq.gz;",
               "do /home/gzahn/miniconda3/bin/itsxpress ", # needs absolute file path!?
-              "--fastq $i --single_end --outfile $i.ITS1.gz --region ITS1 --taxa Fungi --cluster_id 1 --threads 16;", 
+              "--fastq $i --single_end --outfile $i.ITS1.gz --region ALL --taxa Fungi --cluster_id 1 --threads 16;", 
               "done"),
        wait = TRUE,intern = FALSE)
 }

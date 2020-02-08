@@ -1,0 +1,6 @@
+[1] "ps-UNITE_allEuks.RDS"         "ps-UNITE_allNCBI.RDS"        
+[3] "ps-UNITE_fungi.RDS"           "seqs"                        
+[5] "SraRunTable.csv"              "Tracked_Filtration_Stats.csv"
+[7] "Wainwright_2017_kingdom.csv"  "Wainwright_2017_kingdom.RDS" 
+Time difference of 0.01294124 hours
+Time difference of 0.0002936145 hours

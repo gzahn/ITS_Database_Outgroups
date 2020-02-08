@@ -12,7 +12,14 @@ starttime <- Sys.time()
 datapath <- "./data"
 project_directories <- file.path(list.dirs(datapath,recursive = FALSE))
 
+
+# For testing only  !!! Do NOT leave in final version !!!!
+project_directories = project_directories[5]
+
 runtables <- list.files(datapath,recursive = TRUE,pattern = "SraRunTable",full.names = TRUE) 
+
+# For testing only  !!! Do NOT leave in final version !!!!
+runtables = runtables[5]
 
 
 # function for fastq-dump ####

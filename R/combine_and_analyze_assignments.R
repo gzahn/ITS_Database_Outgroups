@@ -40,35 +40,25 @@ full$DB[full$DB=="all_taxonomy"] <- "UNITE_Euk"
 full$DB[full$DB=="fungi_taxonomy"] <- "UNITE"
 full$DB[full$DB=="ncbi_taxonomy"] <- "UNITE+NCBI"
 
+# Convert to numeric, where appropriate
+numcols <- c("ESV_Count","Proportion","Total_Richness","Fungal_Richness","Fungal_Shannon_SD","Fungal_Shannon_Mean","Beta_Dispersion_Mean",
+             "Beta_Dispersion_SD","Mean_Lat","Mean_Lon")
+for(i in numcols)(
+  full[,i] <- as.numeric(full[,i])
+)
+
+
+saveRDS(full,"./output/FULL_Kingdom_df.RDS")
+
+
+
+
 
 # Pick up here ......... ####
 
       # Look at more than just project and database; host, ecosystem, location, etc....
 
 # summary stats
-
-# plots
-
-ggplot(full,aes(x=DB,y=Proportion,fill=Kingdom)) +
-  geom_bar(stat="identity") +
-  facet_wrap(~Main_Organism)
-
-
-# models
-fungi <- full %>% filter(Kingdom == "Fungi")
-mod1 = aov(data=fungi, Proportion ~ DB + Project)
-summary(mod1)
-TukeyHSD(mod1)
-
-
-
-
-
-
-
-
-
-
 
 endtime <- Sys.time()
 elapsedtime <- difftime(endtime, starttime,units = "hours")

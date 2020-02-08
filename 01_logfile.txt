@@ -1,0 +1,5108 @@
+[1] "./data/Barge_2019/SraRunTable-8.csv"
+Read 31210 spots for SRR6940587
+Written 31210 spots for SRR6940587
+Read 31688 spots for SRR6940588
+Written 31688 spots for SRR6940588
+Read 777 spots for SRR6940589
+Written 777 spots for SRR6940589
+Read 43025 spots for SRR6940590
+Written 43025 spots for SRR6940590
+Read 48029 spots for SRR6940591
+Written 48029 spots for SRR6940591
+Read 49501 spots for SRR6940592
+Written 49501 spots for SRR6940592
+Read 53242 spots for SRR6940593
+Written 53242 spots for SRR6940593
+Read 49544 spots for SRR6940594
+Written 49544 spots for SRR6940594
+Read 54151 spots for SRR6940595
+Written 54151 spots for SRR6940595
+Read 35425 spots for SRR6940596
+Written 35425 spots for SRR6940596
+Read 46341 spots for SRR6940597
+Written 46341 spots for SRR6940597
+Read 25791 spots for SRR6940598
+Written 25791 spots for SRR6940598
+Read 59958 spots for SRR6940599
+Written 59958 spots for SRR6940599
+Read 36787 spots for SRR6940600
+Written 36787 spots for SRR6940600
+Read 30637 spots for SRR6940601
+Written 30637 spots for SRR6940601
+Read 46982 spots for SRR6940602
+Written 46982 spots for SRR6940602
+Read 196 spots for SRR6940603
+Written 196 spots for SRR6940603
+Read 364 spots for SRR6940604
+Written 364 spots for SRR6940604
+Read 2136 spots for SRR6940605
+Written 2136 spots for SRR6940605
+Read 58232 spots for SRR6940606
+Written 58232 spots for SRR6940606
+Read 1900 spots for SRR6940607
+Written 1900 spots for SRR6940607
+Read 57 spots for SRR6940608
+Written 57 spots for SRR6940608
+Read 49139 spots for SRR6940609
+Written 49139 spots for SRR6940609
+Read 33613 spots for SRR6940610
+Written 33613 spots for SRR6940610
+Read 68401 spots for SRR6940611
+Written 68401 spots for SRR6940611
+Read 55977 spots for SRR6940612
+Written 55977 spots for SRR6940612
+Read 53106 spots for SRR6940613
+Written 53106 spots for SRR6940613
+Read 49127 spots for SRR6940614
+Written 49127 spots for SRR6940614
+Read 48804 spots for SRR6940615
+Written 48804 spots for SRR6940615
+Read 63860 spots for SRR6940616
+Written 63860 spots for SRR6940616
+Read 29184 spots for SRR6940617
+Written 29184 spots for SRR6940617
+Read 54275 spots for SRR6940618
+Written 54275 spots for SRR6940618
+Read 32781 spots for SRR6940619
+Written 32781 spots for SRR6940619
+Read 39322 spots for SRR6940620
+Written 39322 spots for SRR6940620
+Read 33119 spots for SRR6940621
+Written 33119 spots for SRR6940621
+Read 3594 spots for SRR6940622
+Written 3594 spots for SRR6940622
+Read 44459 spots for SRR6940623
+Written 44459 spots for SRR6940623
+Read 2078 spots for SRR6940625
+Written 2078 spots for SRR6940625
+Read 9889 spots for SRR6940626
+Written 9889 spots for SRR6940626
+Read 3099 spots for SRR6940627
+Written 3099 spots for SRR6940627
+Read 22766 spots for SRR6940628
+Written 22766 spots for SRR6940628
+Read 5298 spots for SRR6940629
+Written 5298 spots for SRR6940629
+Read 7330 spots for SRR6940630
+Written 7330 spots for SRR6940630
+Read 34567 spots for SRR6940631
+Written 34567 spots for SRR6940631
+Read 4511 spots for SRR6940632
+Written 4511 spots for SRR6940632
+Read 45107 spots for SRR6940633
+Written 45107 spots for SRR6940633
+Read 47913 spots for SRR6940634
+Written 47913 spots for SRR6940634
+Read 8638 spots for SRR6940635
+Written 8638 spots for SRR6940635
+Read 3696 spots for SRR6940636
+Written 3696 spots for SRR6940636
+Read 3395 spots for SRR6940637
+Written 3395 spots for SRR6940637
+Read 20028 spots for SRR6940638
+Written 20028 spots for SRR6940638
+Read 56627 spots for SRR6940639
+Written 56627 spots for SRR6940639
+Read 36454 spots for SRR6940640
+Written 36454 spots for SRR6940640
+Read 634 spots for SRR6940641
+Written 634 spots for SRR6940641
+Read 1348 spots for SRR6940642
+Written 1348 spots for SRR6940642
+Read 22898 spots for SRR6940643
+Written 22898 spots for SRR6940643
+Read 454 spots for SRR6940644
+Written 454 spots for SRR6940644
+Read 49280 spots for SRR6940645
+Written 49280 spots for SRR6940645
+Read 46091 spots for SRR6940646
+Written 46091 spots for SRR6940646
+Read 74223 spots for SRR6940648
+Written 74223 spots for SRR6940648
+Read 37364 spots for SRR6940649
+Written 37364 spots for SRR6940649
+Read 29880 spots for SRR6940650
+Written 29880 spots for SRR6940650
+Read 55163 spots for SRR6940651
+Written 55163 spots for SRR6940651
+Read 10666 spots for SRR6940652
+Written 10666 spots for SRR6940652
+Read 44735 spots for SRR6940653
+Written 44735 spots for SRR6940653
+Read 999 spots for SRR6940654
+Written 999 spots for SRR6940654
+Read 94 spots for SRR6940655
+Written 94 spots for SRR6940655
+Read 9426 spots for SRR6940656
+Written 9426 spots for SRR6940656
+Read 69592 spots for SRR6940657
+Written 69592 spots for SRR6940657
+Read 780 spots for SRR6940658
+Written 780 spots for SRR6940658
+Read 250 spots for SRR6940659
+Written 250 spots for SRR6940659
+Read 13112 spots for SRR6940660
+Written 13112 spots for SRR6940660
+Read 22249 spots for SRR6940661
+Written 22249 spots for SRR6940661
+Read 10207 spots for SRR6940662
+Written 10207 spots for SRR6940662
+Read 3145 spots for SRR6940663
+Written 3145 spots for SRR6940663
+Read 15547 spots for SRR6940664
+Written 15547 spots for SRR6940664
+Read 35896 spots for SRR6940665
+Written 35896 spots for SRR6940665
+Read 33298 spots for SRR6940666
+Written 33298 spots for SRR6940666
+Read 44420 spots for SRR6940667
+Written 44420 spots for SRR6940667
+Read 8487 spots for SRR6940668
+Written 8487 spots for SRR6940668
+Read 46756 spots for SRR6940669
+Written 46756 spots for SRR6940669
+Read 37961 spots for SRR6940670
+Written 37961 spots for SRR6940670
+Read 9223 spots for SRR6940671
+Written 9223 spots for SRR6940671
+Read 22618 spots for SRR6940672
+Written 22618 spots for SRR6940672
+Read 47637 spots for SRR6940673
+Written 47637 spots for SRR6940673
+Read 54854 spots for SRR6940674
+Written 54854 spots for SRR6940674
+Read 9610 spots for SRR6940675
+Written 9610 spots for SRR6940675
+Read 39040 spots for SRR6940676
+Written 39040 spots for SRR6940676
+Read 39290 spots for SRR6940677
+Written 39290 spots for SRR6940677
+Read 11720 spots for SRR6940678
+Written 11720 spots for SRR6940678
+Read 41446 spots for SRR6940679
+Written 41446 spots for SRR6940679
+Read 57563 spots for SRR6940680
+Written 57563 spots for SRR6940680
+Read 26491 spots for SRR6940681
+Written 26491 spots for SRR6940681
+Read 57651 spots for SRR6940682
+Written 57651 spots for SRR6940682
+Read 18163 spots for SRR6940683
+Written 18163 spots for SRR6940683
+Read 14825 spots for SRR6940684
+Written 14825 spots for SRR6940684
+Read 42404 spots for SRR6940685
+Written 42404 spots for SRR6940685
+Read 39125 spots for SRR6940686
+Written 39125 spots for SRR6940686
+Read 64280 spots for SRR6940687
+Written 64280 spots for SRR6940687
+Read 43622 spots for SRR6940688
+Written 43622 spots for SRR6940688
+Read 34727 spots for SRR6940689
+Written 34727 spots for SRR6940689
+Read 12482 spots for SRR6940690
+Written 12482 spots for SRR6940690
+Read 51195 spots for SRR6940691
+Written 51195 spots for SRR6940691
+Read 46935 spots for SRR6940692
+Written 46935 spots for SRR6940692
+Read 76366 spots for SRR6940694
+Written 76366 spots for SRR6940694
+Read 125777 spots for SRR6940695
+Written 125777 spots for SRR6940695
+Read 44142 spots for SRR6940696
+Written 44142 spots for SRR6940696
+Read 39524 spots for SRR6940697
+Written 39524 spots for SRR6940697
+Read 14640 spots for SRR6940698
+Written 14640 spots for SRR6940698
+Read 21928 spots for SRR6940699
+Written 21928 spots for SRR6940699
+Read 4592 spots for SRR6940700
+Written 4592 spots for SRR6940700
+Read 108450 spots for SRR6940701
+Written 108450 spots for SRR6940701
+Read 18462 spots for SRR6940702
+Written 18462 spots for SRR6940702
+Read 40025 spots for SRR6940703
+Written 40025 spots for SRR6940703
+Read 45804 spots for SRR6940704
+Written 45804 spots for SRR6940704
+Read 40865 spots for SRR6940705
+Written 40865 spots for SRR6940705
+Read 12360 spots for SRR6940706
+Written 12360 spots for SRR6940706
+Read 27304 spots for SRR6940707
+Written 27304 spots for SRR6940707
+Read 45658 spots for SRR6940708
+Written 45658 spots for SRR6940708
+Read 36062 spots for SRR6940709
+Written 36062 spots for SRR6940709
+Read 49234 spots for SRR6940710
+Written 49234 spots for SRR6940710
+Read 38943 spots for SRR6940711
+Written 38943 spots for SRR6940711
+Read 74272 spots for SRR6940712
+Written 74272 spots for SRR6940712
+Read 70984 spots for SRR6940713
+Written 70984 spots for SRR6940713
+Read 22341 spots for SRR6940714
+Written 22341 spots for SRR6940714
+Read 61147 spots for SRR6940715
+Written 61147 spots for SRR6940715
+Read 5055 spots for SRR6940716
+Written 5055 spots for SRR6940716
+Read 44084 spots for SRR6940717
+Written 44084 spots for SRR6940717
+Read 70141 spots for SRR6940718
+Written 70141 spots for SRR6940718
+Read 2014 spots for SRR6940719
+Written 2014 spots for SRR6940719
+Read 19680 spots for SRR6940720
+Written 19680 spots for SRR6940720
+Read 6861 spots for SRR6940721
+Written 6861 spots for SRR6940721
+Read 13955 spots for SRR6940722
+Written 13955 spots for SRR6940722
+Read 43957 spots for SRR6940723
+Written 43957 spots for SRR6940723
+Read 14979 spots for SRR6940724
+Written 14979 spots for SRR6940724
+Read 7206 spots for SRR6940725
+Written 7206 spots for SRR6940725
+Read 63640 spots for SRR6940726
+Written 63640 spots for SRR6940726
+Read 7582 spots for SRR6940727
+Written 7582 spots for SRR6940727
+Read 33782 spots for SRR6940728
+Written 33782 spots for SRR6940728
+Read 16414 spots for SRR6940729
+Written 16414 spots for SRR6940729
+Read 35137 spots for SRR6940730
+Written 35137 spots for SRR6940730
+Read 31969 spots for SRR6940731
+Written 31969 spots for SRR6940731
+Read 17520 spots for SRR6940732
+Written 17520 spots for SRR6940732
+Read 31265 spots for SRR6940733
+Written 31265 spots for SRR6940733
+Read 62243 spots for SRR6940734
+Written 62243 spots for SRR6940734
+Read 59459 spots for SRR6940735
+Written 59459 spots for SRR6940735
+Read 59741 spots for SRR6940736
+Written 59741 spots for SRR6940736
+Read 51695 spots for SRR6940693
+Written 51695 spots for SRR6940693
+Read 40433 spots for SRR6940647
+Written 40433 spots for SRR6940647
+Read 4199 spots for SRR6940624
+Written 4199 spots for SRR6940624
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Busby_2016/SraRunTable-5.csv"
+Read 27292 spots for SRR2545407
+Written 27292 spots for SRR2545407
+Read 33352 spots for SRR2545408
+Written 33352 spots for SRR2545408
+Read 20119 spots for SRR2545409
+Written 20119 spots for SRR2545409
+Read 30678 spots for SRR2545411
+Written 30678 spots for SRR2545411
+Read 29294 spots for SRR2545412
+Written 29294 spots for SRR2545412
+Read 29381 spots for SRR2545413
+Written 29381 spots for SRR2545413
+Read 32219 spots for SRR2545414
+Written 32219 spots for SRR2545414
+Read 29310 spots for SRR2545416
+Written 29310 spots for SRR2545416
+Read 28003 spots for SRR2545417
+Written 28003 spots for SRR2545417
+Read 15249 spots for SRR2545418
+Written 15249 spots for SRR2545418
+Read 41119 spots for SRR2545419
+Written 41119 spots for SRR2545419
+Read 43127 spots for SRR2545420
+Written 43127 spots for SRR2545420
+Read 33900 spots for SRR2545421
+Written 33900 spots for SRR2545421
+Read 25183 spots for SRR2545422
+Written 25183 spots for SRR2545422
+Read 39499 spots for SRR2545423
+Written 39499 spots for SRR2545423
+Read 19363 spots for SRR2545424
+Written 19363 spots for SRR2545424
+Read 295 spots for SRR2545425
+Written 295 spots for SRR2545425
+Read 13392 spots for SRR2545426
+Written 13392 spots for SRR2545426
+Read 28682 spots for SRR2545427
+Written 28682 spots for SRR2545427
+Read 18564 spots for SRR2545428
+Written 18564 spots for SRR2545428
+Read 61780 spots for SRR2545429
+Written 61780 spots for SRR2545429
+Read 36147 spots for SRR2545430
+Written 36147 spots for SRR2545430
+Read 42639 spots for SRR2545431
+Written 42639 spots for SRR2545431
+Read 72779 spots for SRR2545432
+Written 72779 spots for SRR2545432
+Read 34503 spots for SRR2545433
+Written 34503 spots for SRR2545433
+Read 28325 spots for SRR2545434
+Written 28325 spots for SRR2545434
+Read 16669 spots for SRR2545435
+Written 16669 spots for SRR2545435
+Read 33488 spots for SRR2545436
+Written 33488 spots for SRR2545436
+Read 5860 spots for SRR2545437
+Written 5860 spots for SRR2545437
+Read 32927 spots for SRR2545439
+Written 32927 spots for SRR2545439
+Read 45853 spots for SRR2545440
+Written 45853 spots for SRR2545440
+Read 32344 spots for SRR2545441
+Written 32344 spots for SRR2545441
+Read 33469 spots for SRR2545443
+Written 33469 spots for SRR2545443
+Read 27244 spots for SRR2545444
+Written 27244 spots for SRR2545444
+Read 31533 spots for SRR2545445
+Written 31533 spots for SRR2545445
+Read 8418 spots for SRR2545446
+Written 8418 spots for SRR2545446
+Read 31115 spots for SRR2545447
+Written 31115 spots for SRR2545447
+Read 55236 spots for SRR2545448
+Written 55236 spots for SRR2545448
+Read 49610 spots for SRR2545449
+Written 49610 spots for SRR2545449
+Read 36492 spots for SRR2545450
+Written 36492 spots for SRR2545450
+Read 35740 spots for SRR2545451
+Written 35740 spots for SRR2545451
+Read 13439 spots for SRR2545452
+Written 13439 spots for SRR2545452
+Read 79026 spots for SRR2545453
+Written 79026 spots for SRR2545453
+Read 54158 spots for SRR2545454
+Written 54158 spots for SRR2545454
+Read 32084 spots for SRR2545455
+Written 32084 spots for SRR2545455
+Read 34890 spots for SRR2545456
+Written 34890 spots for SRR2545456
+Read 48669 spots for SRR2545457
+Written 48669 spots for SRR2545457
+Read 31238 spots for SRR2545458
+Written 31238 spots for SRR2545458
+Read 20105 spots for SRR2545459
+Written 20105 spots for SRR2545459
+Read 65752 spots for SRR2545460
+Written 65752 spots for SRR2545460
+Read 967 spots for SRR2545461
+Written 967 spots for SRR2545461
+Read 3365 spots for SRR2545462
+Written 3365 spots for SRR2545462
+Read 38537 spots for SRR2545463
+Written 38537 spots for SRR2545463
+Read 19715 spots for SRR2545464
+Written 19715 spots for SRR2545464
+Read 109 spots for SRR2545465
+Written 109 spots for SRR2545465
+Read 16405 spots for SRR2545466
+Written 16405 spots for SRR2545466
+Read 16883 spots for SRR2545467
+Written 16883 spots for SRR2545467
+Read 19634 spots for SRR2545468
+Written 19634 spots for SRR2545468
+Read 9918 spots for SRR2545469
+Written 9918 spots for SRR2545469
+Read 390 spots for SRR2545470
+Written 390 spots for SRR2545470
+Read 18301 spots for SRR2545471
+Written 18301 spots for SRR2545471
+Read 5654 spots for SRR2545472
+Written 5654 spots for SRR2545472
+Read 11117 spots for SRR2545473
+Written 11117 spots for SRR2545473
+Read 4206 spots for SRR2545474
+Written 4206 spots for SRR2545474
+Read 4111 spots for SRR2545475
+Written 4111 spots for SRR2545475
+Read 3031 spots for SRR2545476
+Written 3031 spots for SRR2545476
+Read 20605 spots for SRR2545477
+Written 20605 spots for SRR2545477
+Read 2338 spots for SRR2545478
+Written 2338 spots for SRR2545478
+Read 41217 spots for SRR2545479
+Written 41217 spots for SRR2545479
+Read 43990 spots for SRR2545480
+Written 43990 spots for SRR2545480
+Read 12080 spots for SRR2545482
+Written 12080 spots for SRR2545482
+Read 3897 spots for SRR2545483
+Written 3897 spots for SRR2545483
+Read 8755 spots for SRR2545484
+Written 8755 spots for SRR2545484
+Read 4075 spots for SRR2545485
+Written 4075 spots for SRR2545485
+Read 2303 spots for SRR2545486
+Written 2303 spots for SRR2545486
+Read 17116 spots for SRR2545487
+Written 17116 spots for SRR2545487
+Read 6467 spots for SRR2545488
+Written 6467 spots for SRR2545488
+Read 817 spots for SRR2545489
+Written 817 spots for SRR2545489
+Read 933 spots for SRR2545490
+Written 933 spots for SRR2545490
+Read 9379 spots for SRR2545491
+Written 9379 spots for SRR2545491
+Read 10998 spots for SRR2545492
+Written 10998 spots for SRR2545492
+Read 5914 spots for SRR2545493
+Written 5914 spots for SRR2545493
+Read 16790 spots for SRR2545494
+Written 16790 spots for SRR2545494
+Read 15515 spots for SRR2545495
+Written 15515 spots for SRR2545495
+Read 39986 spots for SRR2545496
+Written 39986 spots for SRR2545496
+Read 49068 spots for SRR2545497
+Written 49068 spots for SRR2545497
+Read 49148 spots for SRR2545498
+Written 49148 spots for SRR2545498
+Read 34415 spots for SRR2545499
+Written 34415 spots for SRR2545499
+Read 26792 spots for SRR2545500
+Written 26792 spots for SRR2545500
+Read 37732 spots for SRR2545501
+Written 37732 spots for SRR2545501
+Read 6463 spots for SRR2545502
+Written 6463 spots for SRR2545502
+Read 7008 spots for SRR2545503
+Written 7008 spots for SRR2545503
+Read 37762 spots for SRR2545504
+Written 37762 spots for SRR2545504
+Read 38265 spots for SRR2545505
+Written 38265 spots for SRR2545505
+Read 41022 spots for SRR2545506
+Written 41022 spots for SRR2545506
+Read 31792 spots for SRR2545507
+Written 31792 spots for SRR2545507
+Read 33778 spots for SRR2545508
+Written 33778 spots for SRR2545508
+Read 44403 spots for SRR2545509
+Written 44403 spots for SRR2545509
+Read 38632 spots for SRR2545510
+Written 38632 spots for SRR2545510
+Read 44074 spots for SRR2545511
+Written 44074 spots for SRR2545511
+Read 37062 spots for SRR2545512
+Written 37062 spots for SRR2545512
+Read 38071 spots for SRR2545513
+Written 38071 spots for SRR2545513
+Read 49866 spots for SRR2545514
+Written 49866 spots for SRR2545514
+Read 18700 spots for SRR2545515
+Written 18700 spots for SRR2545515
+Read 14745 spots for SRR2545516
+Written 14745 spots for SRR2545516
+Read 27216 spots for SRR2545517
+Written 27216 spots for SRR2545517
+Read 34265 spots for SRR2545518
+Written 34265 spots for SRR2545518
+Read 27735 spots for SRR2545519
+Written 27735 spots for SRR2545519
+Read 25228 spots for SRR2545520
+Written 25228 spots for SRR2545520
+Read 35177 spots for SRR2545522
+Written 35177 spots for SRR2545522
+Read 26573 spots for SRR2545523
+Written 26573 spots for SRR2545523
+Read 15279 spots for SRR2545524
+Written 15279 spots for SRR2545524
+Read 28481 spots for SRR2545525
+Written 28481 spots for SRR2545525
+Read 18501 spots for SRR2545527
+Written 18501 spots for SRR2545527
+Read 5369 spots for SRR2545528
+Written 5369 spots for SRR2545528
+Read 43241 spots for SRR2545529
+Written 43241 spots for SRR2545529
+Read 34106 spots for SRR2545530
+Written 34106 spots for SRR2545530
+Read 40524 spots for SRR2545531
+Written 40524 spots for SRR2545531
+Read 40152 spots for SRR2545532
+Written 40152 spots for SRR2545532
+Read 30870 spots for SRR2545533
+Written 30870 spots for SRR2545533
+Read 41920 spots for SRR2545534
+Written 41920 spots for SRR2545534
+Read 33330 spots for SRR2545535
+Written 33330 spots for SRR2545535
+Read 19618 spots for SRR2545536
+Written 19618 spots for SRR2545536
+Read 71539 spots for SRR2545537
+Written 71539 spots for SRR2545537
+Read 42477 spots for SRR2545538
+Written 42477 spots for SRR2545538
+Read 39144 spots for SRR2545539
+Written 39144 spots for SRR2545539
+Read 30320 spots for SRR2545540
+Written 30320 spots for SRR2545540
+Read 26821 spots for SRR2545541
+Written 26821 spots for SRR2545541
+Read 44634 spots for SRR2545542
+Written 44634 spots for SRR2545542
+Read 32197 spots for SRR2545543
+Written 32197 spots for SRR2545543
+Read 48016 spots for SRR2545544
+Written 48016 spots for SRR2545544
+Read 28340 spots for SRR2545545
+Written 28340 spots for SRR2545545
+Read 23107 spots for SRR2545546
+Written 23107 spots for SRR2545546
+Read 18964 spots for SRR2545547
+Written 18964 spots for SRR2545547
+Read 22716 spots for SRR2545548
+Written 22716 spots for SRR2545548
+Read 31913 spots for SRR2545549
+Written 31913 spots for SRR2545549
+Read 46142 spots for SRR2545550
+Written 46142 spots for SRR2545550
+Read 45409 spots for SRR2545551
+Written 45409 spots for SRR2545551
+Read 41357 spots for SRR2545552
+Written 41357 spots for SRR2545552
+Read 30481 spots for SRR2545553
+Written 30481 spots for SRR2545553
+Read 39685 spots for SRR2545554
+Written 39685 spots for SRR2545554
+Read 23830 spots for SRR2545555
+Written 23830 spots for SRR2545555
+Read 35532 spots for SRR2545556
+Written 35532 spots for SRR2545556
+Read 22387 spots for SRR2545557
+Written 22387 spots for SRR2545557
+Read 37442 spots for SRR2545558
+Written 37442 spots for SRR2545558
+Read 37227 spots for SRR2545559
+Written 37227 spots for SRR2545559
+Read 16180 spots for SRR2545560
+Written 16180 spots for SRR2545560
+Read 14546 spots for SRR2545561
+Written 14546 spots for SRR2545561
+Read 32477 spots for SRR2545562
+Written 32477 spots for SRR2545562
+Read 42143 spots for SRR2545563
+Written 42143 spots for SRR2545563
+Read 27775 spots for SRR2545564
+Written 27775 spots for SRR2545564
+Read 39488 spots for SRR2545565
+Written 39488 spots for SRR2545565
+Read 49954 spots for SRR2545566
+Written 49954 spots for SRR2545566
+Read 40577 spots for SRR2545567
+Written 40577 spots for SRR2545567
+Read 43423 spots for SRR2545568
+Written 43423 spots for SRR2545568
+Read 41913 spots for SRR2545569
+Written 41913 spots for SRR2545569
+Read 44359 spots for SRR2545570
+Written 44359 spots for SRR2545570
+Read 26 spots for SRR2545571
+Written 26 spots for SRR2545571
+Read 30688 spots for SRR2545572
+Written 30688 spots for SRR2545572
+Read 23939 spots for SRR2545573
+Written 23939 spots for SRR2545573
+Read 597 spots for SRR2545574
+Written 597 spots for SRR2545574
+Read 54960 spots for SRR2545575
+Written 54960 spots for SRR2545575
+Read 56890 spots for SRR2545576
+Written 56890 spots for SRR2545576
+Read 56822 spots for SRR2545577
+Written 56822 spots for SRR2545577
+Read 51470 spots for SRR2545578
+Written 51470 spots for SRR2545578
+Read 45206 spots for SRR2545579
+Written 45206 spots for SRR2545579
+Read 50775 spots for SRR2545580
+Written 50775 spots for SRR2545580
+Read 42831 spots for SRR2545581
+Written 42831 spots for SRR2545581
+Read 114823 spots for SRR2545582
+Written 114823 spots for SRR2545582
+Read 46004 spots for SRR2545583
+Written 46004 spots for SRR2545583
+Read 47768 spots for SRR2545481
+Written 47768 spots for SRR2545481
+Read 23453 spots for SRR2545526
+Written 23453 spots for SRR2545526
+Read 58097 spots for SRR2545442
+Written 58097 spots for SRR2545442
+Read 38093 spots for SRR2545521
+Written 38093 spots for SRR2545521
+Read 30767 spots for SRR2545415
+Written 30767 spots for SRR2545415
+Read 32649 spots for SRR2545438
+Written 32649 spots for SRR2545438
+Read 28687 spots for SRR2545410
+Written 28687 spots for SRR2545410
+[1] "Removing Reverse Reads, if any"
+[1] "./data/FernandezConradi_2019/SraRunTable-7.csv"
+Rejected 32981 READS because of filtering out non-biological READS
+Read 32981 spots for ERR2984477
+Written 32981 spots for ERR2984477
+Rejected 28123 READS because of filtering out non-biological READS
+Read 28123 spots for ERR2984478
+Written 28123 spots for ERR2984478
+Rejected 63271 READS because of filtering out non-biological READS
+Read 63271 spots for ERR2984479
+Written 63271 spots for ERR2984479
+Rejected 25247 READS because of filtering out non-biological READS
+Read 25247 spots for ERR2984480
+Written 25247 spots for ERR2984480
+Rejected 6626 READS because of filtering out non-biological READS
+Read 6626 spots for ERR2984481
+Written 6626 spots for ERR2984481
+Read 1238 spots for ERR2984482
+Written 1238 spots for ERR2984482
+Rejected 31926 READS because of filtering out non-biological READS
+Read 31926 spots for ERR2984483
+Written 31926 spots for ERR2984483
+Rejected 42986 READS because of filtering out non-biological READS
+Read 42986 spots for ERR2984484
+Written 42986 spots for ERR2984484
+Rejected 45879 READS because of filtering out non-biological READS
+Read 45879 spots for ERR2984485
+Written 45879 spots for ERR2984485
+Rejected 36002 READS because of filtering out non-biological READS
+Read 36002 spots for ERR2984486
+Written 36002 spots for ERR2984486
+Rejected 1946 READS because of filtering out non-biological READS
+Read 1946 spots for ERR2984487
+Written 1946 spots for ERR2984487
+Rejected 26341 READS because of filtering out non-biological READS
+Read 26341 spots for ERR2984488
+Written 26341 spots for ERR2984488
+Rejected 36487 READS because of filtering out non-biological READS
+Read 36487 spots for ERR2984489
+Written 36487 spots for ERR2984489
+Rejected 45183 READS because of filtering out non-biological READS
+Read 45183 spots for ERR2984490
+Written 45183 spots for ERR2984490
+Rejected 18120 READS because of filtering out non-biological READS
+Read 18120 spots for ERR2984491
+Written 18120 spots for ERR2984491
+Rejected 43926 READS because of filtering out non-biological READS
+Read 43926 spots for ERR2984492
+Written 43926 spots for ERR2984492
+Rejected 33368 READS because of filtering out non-biological READS
+Read 33368 spots for ERR2984493
+Written 33368 spots for ERR2984493
+Rejected 9752 READS because of filtering out non-biological READS
+Read 9752 spots for ERR2984494
+Written 9752 spots for ERR2984494
+Rejected 31836 READS because of filtering out non-biological READS
+Read 31836 spots for ERR2984495
+Written 31836 spots for ERR2984495
+Rejected 48044 READS because of filtering out non-biological READS
+Read 48044 spots for ERR2984496
+Written 48044 spots for ERR2984496
+Rejected 16292 READS because of filtering out non-biological READS
+Read 16292 spots for ERR2984497
+Written 16292 spots for ERR2984497
+Rejected 60133 READS because of filtering out non-biological READS
+Read 60133 spots for ERR2984498
+Written 60133 spots for ERR2984498
+Rejected 66131 READS because of filtering out non-biological READS
+Read 66131 spots for ERR2984499
+Written 66131 spots for ERR2984499
+Rejected 21325 READS because of filtering out non-biological READS
+Read 21325 spots for ERR2984500
+Written 21325 spots for ERR2984500
+Rejected 19859 READS because of filtering out non-biological READS
+Read 19859 spots for ERR2984501
+Written 19859 spots for ERR2984501
+Rejected 43868 READS because of filtering out non-biological READS
+Read 43868 spots for ERR2984502
+Written 43868 spots for ERR2984502
+Rejected 56762 READS because of filtering out non-biological READS
+Read 56762 spots for ERR2984503
+Written 56762 spots for ERR2984503
+Rejected 30985 READS because of filtering out non-biological READS
+Read 30985 spots for ERR2984504
+Written 30985 spots for ERR2984504
+Rejected 55425 READS because of filtering out non-biological READS
+Read 55425 spots for ERR2984506
+Written 55425 spots for ERR2984506
+Rejected 12261 READS because of filtering out non-biological READS
+Read 12261 spots for ERR2984507
+Written 12261 spots for ERR2984507
+Rejected 106870 READS because of filtering out non-biological READS
+Read 106870 spots for ERR2984508
+Written 106870 spots for ERR2984508
+Rejected 40640 READS because of filtering out non-biological READS
+Read 40640 spots for ERR2984509
+Written 40640 spots for ERR2984509
+Rejected 96704 READS because of filtering out non-biological READS
+Read 96704 spots for ERR2984510
+Written 96704 spots for ERR2984510
+Rejected 81261 READS because of filtering out non-biological READS
+Read 81261 spots for ERR2984511
+Written 81261 spots for ERR2984511
+Rejected 24287 READS because of filtering out non-biological READS
+Read 24287 spots for ERR2984512
+Written 24287 spots for ERR2984512
+Rejected 24961 READS because of filtering out non-biological READS
+Read 24961 spots for ERR2984513
+Written 24961 spots for ERR2984513
+Rejected 95640 READS because of filtering out non-biological READS
+Read 95640 spots for ERR2984514
+Written 95640 spots for ERR2984514
+Rejected 28419 READS because of filtering out non-biological READS
+Read 28419 spots for ERR2984515
+Written 28419 spots for ERR2984515
+Rejected 25568 READS because of filtering out non-biological READS
+Read 25568 spots for ERR2984516
+Written 25568 spots for ERR2984516
+Rejected 30160 READS because of filtering out non-biological READS
+Read 30160 spots for ERR2984517
+Written 30160 spots for ERR2984517
+Rejected 115937 READS because of filtering out non-biological READS
+Read 115937 spots for ERR2984518
+Written 115937 spots for ERR2984518
+Rejected 71571 READS because of filtering out non-biological READS
+Read 71571 spots for ERR2984519
+Written 71571 spots for ERR2984519
+Rejected 26572 READS because of filtering out non-biological READS
+Read 26572 spots for ERR2984520
+Written 26572 spots for ERR2984520
+Rejected 36765 READS because of filtering out non-biological READS
+Read 36765 spots for ERR2984521
+Written 36765 spots for ERR2984521
+Rejected 74911 READS because of filtering out non-biological READS
+Read 74911 spots for ERR2984522
+Written 74911 spots for ERR2984522
+Rejected 28833 READS because of filtering out non-biological READS
+Read 28833 spots for ERR2984523
+Written 28833 spots for ERR2984523
+Rejected 14121 READS because of filtering out non-biological READS
+Read 14121 spots for ERR2984524
+Written 14121 spots for ERR2984524
+Rejected 15784 READS because of filtering out non-biological READS
+Read 15784 spots for ERR2984525
+Written 15784 spots for ERR2984525
+Rejected 49941 READS because of filtering out non-biological READS
+Read 49941 spots for ERR2984526
+Written 49941 spots for ERR2984526
+Rejected 22256 READS because of filtering out non-biological READS
+Read 22256 spots for ERR2984528
+Written 22256 spots for ERR2984528
+Rejected 20746 READS because of filtering out non-biological READS
+Read 20746 spots for ERR2984529
+Written 20746 spots for ERR2984529
+Rejected 35299 READS because of filtering out non-biological READS
+Read 35299 spots for ERR2984530
+Written 35299 spots for ERR2984530
+Rejected 36861 READS because of filtering out non-biological READS
+Read 36861 spots for ERR2984531
+Written 36861 spots for ERR2984531
+Rejected 73338 READS because of filtering out non-biological READS
+Read 73338 spots for ERR2984532
+Written 73338 spots for ERR2984532
+Rejected 61374 READS because of filtering out non-biological READS
+Read 61374 spots for ERR2984533
+Written 61374 spots for ERR2984533
+Rejected 67705 READS because of filtering out non-biological READS
+Read 67705 spots for ERR2984534
+Written 67705 spots for ERR2984534
+Rejected 92253 READS because of filtering out non-biological READS
+Read 92253 spots for ERR2984535
+Written 92253 spots for ERR2984535
+Rejected 70770 READS because of filtering out non-biological READS
+Read 70770 spots for ERR2984536
+Written 70770 spots for ERR2984536
+Rejected 15820 READS because of filtering out non-biological READS
+Read 15820 spots for ERR2984537
+Written 15820 spots for ERR2984537
+Rejected 54301 READS because of filtering out non-biological READS
+Read 54301 spots for ERR2984538
+Written 54301 spots for ERR2984538
+Rejected 44202 READS because of filtering out non-biological READS
+Read 44202 spots for ERR2984539
+Written 44202 spots for ERR2984539
+Read 117 spots for ERR2984540
+Written 117 spots for ERR2984540
+Rejected 24692 READS because of filtering out non-biological READS
+Read 24692 spots for ERR2984541
+Written 24692 spots for ERR2984541
+Rejected 58449 READS because of filtering out non-biological READS
+Read 58449 spots for ERR2984542
+Written 58449 spots for ERR2984542
+Rejected 44370 READS because of filtering out non-biological READS
+Read 44370 spots for ERR2984543
+Written 44370 spots for ERR2984543
+Rejected 31026 READS because of filtering out non-biological READS
+Read 31026 spots for ERR2984544
+Written 31026 spots for ERR2984544
+Read 236 spots for ERR2984545
+Written 236 spots for ERR2984545
+Rejected 27540 READS because of filtering out non-biological READS
+Read 27540 spots for ERR2984546
+Written 27540 spots for ERR2984546
+Rejected 24974 READS because of filtering out non-biological READS
+Read 24974 spots for ERR2984547
+Written 24974 spots for ERR2984547
+Rejected 45810 READS because of filtering out non-biological READS
+Read 45810 spots for ERR2984548
+Written 45810 spots for ERR2984548
+Rejected 13180 READS because of filtering out non-biological READS
+Read 13180 spots for ERR2984549
+Written 13180 spots for ERR2984549
+Rejected 20673 READS because of filtering out non-biological READS
+Read 20673 spots for ERR2984550
+Written 20673 spots for ERR2984550
+Rejected 19549 READS because of filtering out non-biological READS
+Read 19549 spots for ERR2984551
+Written 19549 spots for ERR2984551
+Rejected 41588 READS because of filtering out non-biological READS
+Read 41588 spots for ERR2984552
+Written 41588 spots for ERR2984552
+Read 494 spots for ERR2984553
+Written 494 spots for ERR2984553
+Rejected 2891 READS because of filtering out non-biological READS
+Read 2891 spots for ERR2984554
+Written 2891 spots for ERR2984554
+Rejected 67799 READS because of filtering out non-biological READS
+Read 67799 spots for ERR2984555
+Written 67799 spots for ERR2984555
+Rejected 18989 READS because of filtering out non-biological READS
+Read 18989 spots for ERR2984556
+Written 18989 spots for ERR2984556
+Rejected 17573 READS because of filtering out non-biological READS
+Read 17573 spots for ERR2984557
+Written 17573 spots for ERR2984557
+Rejected 39828 READS because of filtering out non-biological READS
+Read 39828 spots for ERR2984558
+Written 39828 spots for ERR2984558
+Rejected 25491 READS because of filtering out non-biological READS
+Read 25491 spots for ERR2984559
+Written 25491 spots for ERR2984559
+Rejected 12249 READS because of filtering out non-biological READS
+Read 12249 spots for ERR2984560
+Written 12249 spots for ERR2984560
+Rejected 62742 READS because of filtering out non-biological READS
+Read 62742 spots for ERR2984561
+Written 62742 spots for ERR2984561
+Rejected 17106 READS because of filtering out non-biological READS
+Read 17106 spots for ERR2984562
+Written 17106 spots for ERR2984562
+Rejected 71799 READS because of filtering out non-biological READS
+Read 71799 spots for ERR2984563
+Written 71799 spots for ERR2984563
+Rejected 41485 READS because of filtering out non-biological READS
+Read 41485 spots for ERR2984564
+Written 41485 spots for ERR2984564
+Rejected 7237 READS because of filtering out non-biological READS
+Read 7237 spots for ERR2984565
+Written 7237 spots for ERR2984565
+Rejected 62774 READS because of filtering out non-biological READS
+Read 62774 spots for ERR2984566
+Written 62774 spots for ERR2984566
+Rejected 11145 READS because of filtering out non-biological READS
+Read 11145 spots for ERR2984567
+Written 11145 spots for ERR2984567
+Rejected 7593 READS because of filtering out non-biological READS
+Read 7593 spots for ERR2984568
+Written 7593 spots for ERR2984568
+Rejected 30583 READS because of filtering out non-biological READS
+Read 30583 spots for ERR2984569
+Written 30583 spots for ERR2984569
+Rejected 42196 READS because of filtering out non-biological READS
+Read 42196 spots for ERR2984571
+Written 42196 spots for ERR2984571
+Rejected 39530 READS because of filtering out non-biological READS
+Read 39530 spots for ERR2984572
+Written 39530 spots for ERR2984572
+Rejected 58981 READS because of filtering out non-biological READS
+Read 58981 spots for ERR2984573
+Written 58981 spots for ERR2984573
+Rejected 32953 READS because of filtering out non-biological READS
+Read 32953 spots for ERR2984574
+Written 32953 spots for ERR2984574
+Rejected 77758 READS because of filtering out non-biological READS
+Read 77758 spots for ERR2984575
+Written 77758 spots for ERR2984575
+Rejected 65974 READS because of filtering out non-biological READS
+Read 65974 spots for ERR2984576
+Written 65974 spots for ERR2984576
+Rejected 10408 READS because of filtering out non-biological READS
+Read 10408 spots for ERR2984577
+Written 10408 spots for ERR2984577
+Rejected 58489 READS because of filtering out non-biological READS
+Read 58489 spots for ERR2984578
+Written 58489 spots for ERR2984578
+Rejected 92093 READS because of filtering out non-biological READS
+Read 92093 spots for ERR2984579
+Written 92093 spots for ERR2984579
+Rejected 7357 READS because of filtering out non-biological READS
+Read 7357 spots for ERR2984580
+Written 7357 spots for ERR2984580
+Rejected 8282 READS because of filtering out non-biological READS
+Read 8282 spots for ERR2984581
+Written 8282 spots for ERR2984581
+Rejected 57087 READS because of filtering out non-biological READS
+Read 57087 spots for ERR2984582
+Written 57087 spots for ERR2984582
+Rejected 75697 READS because of filtering out non-biological READS
+Read 75697 spots for ERR2984583
+Written 75697 spots for ERR2984583
+Rejected 16423 READS because of filtering out non-biological READS
+Read 16423 spots for ERR2984584
+Written 16423 spots for ERR2984584
+Rejected 2669 READS because of filtering out non-biological READS
+Read 2669 spots for ERR2984585
+Written 2669 spots for ERR2984585
+Rejected 11408 READS because of filtering out non-biological READS
+Read 11408 spots for ERR2984586
+Written 11408 spots for ERR2984586
+Rejected 21869 READS because of filtering out non-biological READS
+Read 21869 spots for ERR2984587
+Written 21869 spots for ERR2984587
+Rejected 35066 READS because of filtering out non-biological READS
+Read 35066 spots for ERR2984588
+Written 35066 spots for ERR2984588
+Rejected 18471 READS because of filtering out non-biological READS
+Read 18471 spots for ERR2984589
+Written 18471 spots for ERR2984589
+Rejected 50581 READS because of filtering out non-biological READS
+Read 50581 spots for ERR2984590
+Written 50581 spots for ERR2984590
+Rejected 6344 READS because of filtering out non-biological READS
+Read 6344 spots for ERR2984591
+Written 6344 spots for ERR2984591
+Rejected 52772 READS because of filtering out non-biological READS
+Read 52772 spots for ERR2984592
+Written 52772 spots for ERR2984592
+Rejected 1767 READS because of filtering out non-biological READS
+Read 1767 spots for ERR2984593
+Written 1767 spots for ERR2984593
+Rejected 3081 READS because of filtering out non-biological READS
+Read 3081 spots for ERR2984594
+Written 3081 spots for ERR2984594
+Rejected 10563 READS because of filtering out non-biological READS
+Read 10563 spots for ERR2984595
+Written 10563 spots for ERR2984595
+Rejected 21604 READS because of filtering out non-biological READS
+Read 21604 spots for ERR2984596
+Written 21604 spots for ERR2984596
+Rejected 28313 READS because of filtering out non-biological READS
+Read 28313 spots for ERR2984597
+Written 28313 spots for ERR2984597
+Rejected 55643 READS because of filtering out non-biological READS
+Read 55643 spots for ERR2984598
+Written 55643 spots for ERR2984598
+Rejected 76249 READS because of filtering out non-biological READS
+Read 76249 spots for ERR2984599
+Written 76249 spots for ERR2984599
+Rejected 36215 READS because of filtering out non-biological READS
+Read 36215 spots for ERR2984600
+Written 36215 spots for ERR2984600
+Rejected 20848 READS because of filtering out non-biological READS
+Read 20848 spots for ERR2984601
+Written 20848 spots for ERR2984601
+Rejected 3730 READS because of filtering out non-biological READS
+Read 3730 spots for ERR2984602
+Written 3730 spots for ERR2984602
+Read 1408 spots for ERR2984603
+Written 1408 spots for ERR2984603
+Rejected 31861 READS because of filtering out non-biological READS
+Read 31861 spots for ERR2984604
+Written 31861 spots for ERR2984604
+Rejected 3002 READS because of filtering out non-biological READS
+Read 3002 spots for ERR2984605
+Written 3002 spots for ERR2984605
+Rejected 97931 READS because of filtering out non-biological READS
+Read 97931 spots for ERR2984606
+Written 97931 spots for ERR2984606
+Read 1573 spots for ERR2984607
+Written 1573 spots for ERR2984607
+Rejected 25288 READS because of filtering out non-biological READS
+Read 25288 spots for ERR2984608
+Written 25288 spots for ERR2984608
+Rejected 85262 READS because of filtering out non-biological READS
+Read 85262 spots for ERR2984609
+Written 85262 spots for ERR2984609
+Rejected 4518 READS because of filtering out non-biological READS
+Read 4518 spots for ERR2984610
+Written 4518 spots for ERR2984610
+Rejected 8754 READS because of filtering out non-biological READS
+Read 8754 spots for ERR2984611
+Written 8754 spots for ERR2984611
+Rejected 29898 READS because of filtering out non-biological READS
+Read 29898 spots for ERR2984612
+Written 29898 spots for ERR2984612
+Rejected 84960 READS because of filtering out non-biological READS
+Read 84960 spots for ERR2984613
+Written 84960 spots for ERR2984613
+Rejected 30527 READS because of filtering out non-biological READS
+Read 30527 spots for ERR2984614
+Written 30527 spots for ERR2984614
+Rejected 189228 READS because of filtering out non-biological READS
+Read 189228 spots for ERR2984615
+Written 189228 spots for ERR2984615
+Rejected 34129 READS because of filtering out non-biological READS
+Read 34129 spots for ERR2984616
+Written 34129 spots for ERR2984616
+Rejected 33668 READS because of filtering out non-biological READS
+Read 33668 spots for ERR2984617
+Written 33668 spots for ERR2984617
+Rejected 42127 READS because of filtering out non-biological READS
+Read 42127 spots for ERR2984618
+Written 42127 spots for ERR2984618
+Rejected 14450 READS because of filtering out non-biological READS
+Read 14450 spots for ERR2984619
+Written 14450 spots for ERR2984619
+Read 364 spots for ERR2984620
+Written 364 spots for ERR2984620
+Read 1332 spots for ERR2984621
+Written 1332 spots for ERR2984621
+Rejected 33810 READS because of filtering out non-biological READS
+Read 33810 spots for ERR2984622
+Written 33810 spots for ERR2984622
+Rejected 143412 READS because of filtering out non-biological READS
+Read 143412 spots for ERR2984623
+Written 143412 spots for ERR2984623
+Rejected 8186 READS because of filtering out non-biological READS
+Read 8186 spots for ERR2984624
+Written 8186 spots for ERR2984624
+Read 102 spots for ERR2984625
+Written 102 spots for ERR2984625
+Rejected 19513 READS because of filtering out non-biological READS
+Read 19513 spots for ERR2984626
+Written 19513 spots for ERR2984626
+Rejected 7956 READS because of filtering out non-biological READS
+Read 7956 spots for ERR2984627
+Written 7956 spots for ERR2984627
+Rejected 8702 READS because of filtering out non-biological READS
+Read 8702 spots for ERR2984628
+Written 8702 spots for ERR2984628
+Rejected 21662 READS because of filtering out non-biological READS
+Read 21662 spots for ERR2984629
+Written 21662 spots for ERR2984629
+Rejected 31941 READS because of filtering out non-biological READS
+Read 31941 spots for ERR2984630
+Written 31941 spots for ERR2984630
+Read 806 spots for ERR2984631
+Written 806 spots for ERR2984631
+Rejected 4498 READS because of filtering out non-biological READS
+Read 4498 spots for ERR2984632
+Written 4498 spots for ERR2984632
+Read 888 spots for ERR2984633
+Written 888 spots for ERR2984633
+Rejected 44213 READS because of filtering out non-biological READS
+Read 44213 spots for ERR2984634
+Written 44213 spots for ERR2984634
+Rejected 14775 READS because of filtering out non-biological READS
+Read 14775 spots for ERR2984635
+Written 14775 spots for ERR2984635
+Rejected 33020 READS because of filtering out non-biological READS
+Read 33020 spots for ERR2984636
+Written 33020 spots for ERR2984636
+Rejected 45278 READS because of filtering out non-biological READS
+Read 45278 spots for ERR2984637
+Written 45278 spots for ERR2984637
+Rejected 4978 READS because of filtering out non-biological READS
+Read 4978 spots for ERR2984638
+Written 4978 spots for ERR2984638
+Rejected 45253 READS because of filtering out non-biological READS
+Read 45253 spots for ERR2984640
+Written 45253 spots for ERR2984640
+Rejected 8978 READS because of filtering out non-biological READS
+Read 8978 spots for ERR2984641
+Written 8978 spots for ERR2984641
+Rejected 10173 READS because of filtering out non-biological READS
+Read 10173 spots for ERR2984642
+Written 10173 spots for ERR2984642
+Rejected 15017 READS because of filtering out non-biological READS
+Read 15017 spots for ERR2984643
+Written 15017 spots for ERR2984643
+Rejected 104840 READS because of filtering out non-biological READS
+Read 104840 spots for ERR2984644
+Written 104840 spots for ERR2984644
+Rejected 56450 READS because of filtering out non-biological READS
+Read 56450 spots for ERR2984645
+Written 56450 spots for ERR2984645
+Rejected 14434 READS because of filtering out non-biological READS
+Read 14434 spots for ERR2984646
+Written 14434 spots for ERR2984646
+Rejected 3031 READS because of filtering out non-biological READS
+Read 3031 spots for ERR2984647
+Written 3031 spots for ERR2984647
+Rejected 61548 READS because of filtering out non-biological READS
+Read 61548 spots for ERR2984648
+Written 61548 spots for ERR2984648
+Rejected 11946 READS because of filtering out non-biological READS
+Read 11946 spots for ERR2984649
+Written 11946 spots for ERR2984649
+Rejected 40652 READS because of filtering out non-biological READS
+Read 40652 spots for ERR2984650
+Written 40652 spots for ERR2984650
+Rejected 3337 READS because of filtering out non-biological READS
+Read 3337 spots for ERR2984651
+Written 3337 spots for ERR2984651
+Rejected 30159 READS because of filtering out non-biological READS
+Read 30159 spots for ERR2984652
+Written 30159 spots for ERR2984652
+Rejected 17158 READS because of filtering out non-biological READS
+Read 17158 spots for ERR2984653
+Written 17158 spots for ERR2984653
+Rejected 33249 READS because of filtering out non-biological READS
+Read 33249 spots for ERR2984654
+Written 33249 spots for ERR2984654
+Rejected 21735 READS because of filtering out non-biological READS
+Read 21735 spots for ERR2984655
+Written 21735 spots for ERR2984655
+Rejected 93268 READS because of filtering out non-biological READS
+Read 93268 spots for ERR2984656
+Written 93268 spots for ERR2984656
+Rejected 31728 READS because of filtering out non-biological READS
+Read 31728 spots for ERR2984657
+Written 31728 spots for ERR2984657
+Rejected 1616 READS because of filtering out non-biological READS
+Read 1616 spots for ERR2984658
+Written 1616 spots for ERR2984658
+Rejected 24172 READS because of filtering out non-biological READS
+Read 24172 spots for ERR2984659
+Written 24172 spots for ERR2984659
+Read 3 spots for ERR2984660
+Written 3 spots for ERR2984660
+Rejected 2539 READS because of filtering out non-biological READS
+Read 2539 spots for ERR2984661
+Written 2539 spots for ERR2984661
+Rejected 14720 READS because of filtering out non-biological READS
+Read 14720 spots for ERR2984663
+Written 14720 spots for ERR2984663
+Rejected 8548 READS because of filtering out non-biological READS
+Read 8548 spots for ERR2984664
+Written 8548 spots for ERR2984664
+Rejected 8151 READS because of filtering out non-biological READS
+Read 8151 spots for ERR2984505
+Written 8151 spots for ERR2984505
+Rejected 24157 READS because of filtering out non-biological READS
+Read 24157 spots for ERR2984570
+Written 24157 spots for ERR2984570
+Rejected 13338 READS because of filtering out non-biological READS
+Read 13338 spots for ERR2984639
+Written 13338 spots for ERR2984639
+Rejected 11504 READS because of filtering out non-biological READS
+Read 11504 spots for ERR2984527
+Written 11504 spots for ERR2984527
+Rejected 48729 READS because of filtering out non-biological READS
+Read 48729 spots for ERR2984662
+Written 48729 spots for ERR2984662
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Ravenscraft_2019/SraRunTable-6.csv"
+Read 87589 spots for SRR8178116
+Written 87589 spots for SRR8178116
+Read 31211 spots for SRR8178121
+Written 31211 spots for SRR8178121
+Read 93024 spots for SRR8178123
+Written 93024 spots for SRR8178123
+Read 39067 spots for SRR8178125
+Written 39067 spots for SRR8178125
+Read 64668 spots for SRR8178126
+Written 64668 spots for SRR8178126
+Read 114538 spots for SRR8178129
+Written 114538 spots for SRR8178129
+Read 42099 spots for SRR8178130
+Written 42099 spots for SRR8178130
+Read 4030 spots for SRR8178132
+Written 4030 spots for SRR8178132
+Read 3606 spots for SRR8178133
+Written 3606 spots for SRR8178133
+Read 128746 spots for SRR8178134
+Written 128746 spots for SRR8178134
+Read 58203 spots for SRR8178135
+Written 58203 spots for SRR8178135
+Read 68145 spots for SRR8178136
+Written 68145 spots for SRR8178136
+Read 52052 spots for SRR8178139
+Written 52052 spots for SRR8178139
+Read 85563 spots for SRR8178142
+Written 85563 spots for SRR8178142
+Read 75281 spots for SRR8178143
+Written 75281 spots for SRR8178143
+Read 14867 spots for SRR8178144
+Written 14867 spots for SRR8178144
+Read 19587 spots for SRR8178145
+Written 19587 spots for SRR8178145
+Read 33388 spots for SRR8178147
+Written 33388 spots for SRR8178147
+Read 88192 spots for SRR8178149
+Written 88192 spots for SRR8178149
+Read 50126 spots for SRR8178150
+Written 50126 spots for SRR8178150
+Read 87733 spots for SRR8178151
+Written 87733 spots for SRR8178151
+Read 187696 spots for SRR8178152
+Written 187696 spots for SRR8178152
+Read 39763 spots for SRR8178155
+Written 39763 spots for SRR8178155
+Read 37137 spots for SRR8178157
+Written 37137 spots for SRR8178157
+Read 64541 spots for SRR8178159
+Written 64541 spots for SRR8178159
+Read 4228 spots for SRR8178167
+Written 4228 spots for SRR8178167
+Read 39235 spots for SRR8178171
+Written 39235 spots for SRR8178171
+Read 78419 spots for SRR8178173
+Written 78419 spots for SRR8178173
+Read 114918 spots for SRR8178175
+Written 114918 spots for SRR8178175
+Read 14318 spots for SRR8178177
+Written 14318 spots for SRR8178177
+Read 106651 spots for SRR8178179
+Written 106651 spots for SRR8178179
+Read 79951 spots for SRR8178184
+Written 79951 spots for SRR8178184
+Read 34735 spots for SRR8178186
+Written 34735 spots for SRR8178186
+Read 70595 spots for SRR8178187
+Written 70595 spots for SRR8178187
+Read 401 spots for SRR8178190
+Written 401 spots for SRR8178190
+Read 3761 spots for SRR8178191
+Written 3761 spots for SRR8178191
+Read 93070 spots for SRR8178192
+Written 93070 spots for SRR8178192
+Read 214968 spots for SRR8178194
+Written 214968 spots for SRR8178194
+Read 25289 spots for SRR8178195
+Written 25289 spots for SRR8178195
+Read 52798 spots for SRR8178196
+Written 52798 spots for SRR8178196
+Read 45049 spots for SRR8178199
+Written 45049 spots for SRR8178199
+Read 54935 spots for SRR8178200
+Written 54935 spots for SRR8178200
+Read 61071 spots for SRR8178204
+Written 61071 spots for SRR8178204
+Read 58896 spots for SRR8178206
+Written 58896 spots for SRR8178206
+Read 86043 spots for SRR8178208
+Written 86043 spots for SRR8178208
+Read 67150 spots for SRR8178212
+Written 67150 spots for SRR8178212
+Read 71510 spots for SRR8178213
+Written 71510 spots for SRR8178213
+Read 57857 spots for SRR8178214
+Written 57857 spots for SRR8178214
+Read 68605 spots for SRR8178215
+Written 68605 spots for SRR8178215
+Read 17668 spots for SRR8178218
+Written 17668 spots for SRR8178218
+Read 93196 spots for SRR8178219
+Written 93196 spots for SRR8178219
+Read 8824 spots for SRR8178220
+Written 8824 spots for SRR8178220
+Read 13613 spots for SRR8178221
+Written 13613 spots for SRR8178221
+Read 14706 spots for SRR8178223
+Written 14706 spots for SRR8178223
+Read 10065 spots for SRR8178227
+Written 10065 spots for SRR8178227
+Read 33810 spots for SRR8178230
+Written 33810 spots for SRR8178230
+Read 14696 spots for SRR8178232
+Written 14696 spots for SRR8178232
+Read 75455 spots for SRR8178233
+Written 75455 spots for SRR8178233
+Read 38433 spots for SRR8178234
+Written 38433 spots for SRR8178234
+Read 89007 spots for SRR8178235
+Written 89007 spots for SRR8178235
+Read 40736 spots for SRR8178237
+Written 40736 spots for SRR8178237
+Read 53657 spots for SRR8178240
+Written 53657 spots for SRR8178240
+Read 47099 spots for SRR8178242
+Written 47099 spots for SRR8178242
+Read 414580 spots for SRR8178246
+Written 414580 spots for SRR8178246
+Read 9155 spots for SRR8178249
+Written 9155 spots for SRR8178249
+Read 9082 spots for SRR8178250
+Written 9082 spots for SRR8178250
+Read 6526 spots for SRR8178253
+Written 6526 spots for SRR8178253
+Read 42202 spots for SRR8178254
+Written 42202 spots for SRR8178254
+Read 4912 spots for SRR8178256
+Written 4912 spots for SRR8178256
+Read 2636 spots for SRR8178260
+Written 2636 spots for SRR8178260
+Read 11284 spots for SRR8178261
+Written 11284 spots for SRR8178261
+Read 22109 spots for SRR8178263
+Written 22109 spots for SRR8178263
+Read 6481 spots for SRR8178264
+Written 6481 spots for SRR8178264
+Read 13381 spots for SRR8178266
+Written 13381 spots for SRR8178266
+Read 30334 spots for SRR8178272
+Written 30334 spots for SRR8178272
+Read 4262 spots for SRR8178274
+Written 4262 spots for SRR8178274
+Read 4393 spots for SRR8178275
+Written 4393 spots for SRR8178275
+Read 32227 spots for SRR8178277
+Written 32227 spots for SRR8178277
+Read 2293 spots for SRR8178279
+Written 2293 spots for SRR8178279
+Read 65254 spots for SRR8178282
+Written 65254 spots for SRR8178282
+Read 28583 spots for SRR8178284
+Written 28583 spots for SRR8178284
+Read 56250 spots for SRR8178285
+Written 56250 spots for SRR8178285
+Read 53720 spots for SRR8178286
+Written 53720 spots for SRR8178286
+Read 13315 spots for SRR8178288
+Written 13315 spots for SRR8178288
+Read 82288 spots for SRR8178291
+Written 82288 spots for SRR8178291
+Read 97377 spots for SRR8178294
+Written 97377 spots for SRR8178294
+Read 2389 spots for SRR8178296
+Written 2389 spots for SRR8178296
+Read 27456 spots for SRR8178298
+Written 27456 spots for SRR8178298
+Read 40995 spots for SRR8178300
+Written 40995 spots for SRR8178300
+Read 68880 spots for SRR8178302
+Written 68880 spots for SRR8178302
+Read 49040 spots for SRR8178306
+Written 49040 spots for SRR8178306
+Read 99084 spots for SRR8178310
+Written 99084 spots for SRR8178310
+Read 56463 spots for SRR8178312
+Written 56463 spots for SRR8178312
+Read 93857 spots for SRR8178316
+Written 93857 spots for SRR8178316
+Read 17502 spots for SRR8178317
+Written 17502 spots for SRR8178317
+Read 73134 spots for SRR8178319
+Written 73134 spots for SRR8178319
+Read 61372 spots for SRR8178320
+Written 61372 spots for SRR8178320
+Read 91895 spots for SRR8178321
+Written 91895 spots for SRR8178321
+Read 81955 spots for SRR8178324
+Written 81955 spots for SRR8178324
+Read 128456 spots for SRR8178327
+Written 128456 spots for SRR8178327
+Read 107718 spots for SRR8178330
+Written 107718 spots for SRR8178330
+Read 82452 spots for SRR8178334
+Written 82452 spots for SRR8178334
+Read 15085 spots for SRR8178335
+Written 15085 spots for SRR8178335
+Read 25371 spots for SRR8178336
+Written 25371 spots for SRR8178336
+Read 61674 spots for SRR8178337
+Written 61674 spots for SRR8178337
+Read 517 spots for SRR8178339
+Written 517 spots for SRR8178339
+Read 12563 spots for SRR8178341
+Written 12563 spots for SRR8178341
+Read 17513 spots for SRR8178343
+Written 17513 spots for SRR8178343
+Read 31976 spots for SRR8178345
+Written 31976 spots for SRR8178345
+Read 27831 spots for SRR8178346
+Written 27831 spots for SRR8178346
+Read 10179 spots for SRR8178347
+Written 10179 spots for SRR8178347
+Read 11198 spots for SRR8178349
+Written 11198 spots for SRR8178349
+Read 51963 spots for SRR8178351
+Written 51963 spots for SRR8178351
+Read 40773 spots for SRR8178354
+Written 40773 spots for SRR8178354
+Read 107605 spots for SRR8178356
+Written 107605 spots for SRR8178356
+Read 97006 spots for SRR8178358
+Written 97006 spots for SRR8178358
+Read 35249 spots for SRR8178359
+Written 35249 spots for SRR8178359
+Read 46260 spots for SRR8178361
+Written 46260 spots for SRR8178361
+Read 35915 spots for SRR8178362
+Written 35915 spots for SRR8178362
+Read 39721 spots for SRR8178365
+Written 39721 spots for SRR8178365
+Read 41603 spots for SRR8178367
+Written 41603 spots for SRR8178367
+Read 128378 spots for SRR8178369
+Written 128378 spots for SRR8178369
+Read 43249 spots for SRR8178371
+Written 43249 spots for SRR8178371
+Read 63017 spots for SRR8178372
+Written 63017 spots for SRR8178372
+Read 29809 spots for SRR8178373
+Written 29809 spots for SRR8178373
+Read 67809 spots for SRR8178376
+Written 67809 spots for SRR8178376
+Read 78592 spots for SRR8178377
+Written 78592 spots for SRR8178377
+Read 46877 spots for SRR8178379
+Written 46877 spots for SRR8178379
+Read 35243 spots for SRR8178384
+Written 35243 spots for SRR8178384
+Read 32147 spots for SRR8178385
+Written 32147 spots for SRR8178385
+Read 45499 spots for SRR8178386
+Written 45499 spots for SRR8178386
+Read 7919 spots for SRR8178387
+Written 7919 spots for SRR8178387
+Read 57171 spots for SRR8178388
+Written 57171 spots for SRR8178388
+Read 7308 spots for SRR8178390
+Written 7308 spots for SRR8178390
+Read 6348 spots for SRR8178395
+Written 6348 spots for SRR8178395
+Read 39641 spots for SRR8178397
+Written 39641 spots for SRR8178397
+Read 4168 spots for SRR8178399
+Written 4168 spots for SRR8178399
+Read 97932 spots for SRR8178404
+Written 97932 spots for SRR8178404
+Read 82665 spots for SRR8178408
+Written 82665 spots for SRR8178408
+Read 27616 spots for SRR8178410
+Written 27616 spots for SRR8178410
+Read 86759 spots for SRR8178412
+Written 86759 spots for SRR8178412
+Read 110107 spots for SRR8178413
+Written 110107 spots for SRR8178413
+Read 70750 spots for SRR8178414
+Written 70750 spots for SRR8178414
+Read 42193 spots for SRR8178418
+Written 42193 spots for SRR8178418
+Read 58976 spots for SRR8178419
+Written 58976 spots for SRR8178419
+Read 55439 spots for SRR8178420
+Written 55439 spots for SRR8178420
+Read 8712 spots for SRR8178427
+Written 8712 spots for SRR8178427
+Read 1967 spots for SRR8178428
+Written 1967 spots for SRR8178428
+Read 34322 spots for SRR8178430
+Written 34322 spots for SRR8178430
+Read 31501 spots for SRR8178433
+Written 31501 spots for SRR8178433
+Read 3396 spots for SRR8178434
+Written 3396 spots for SRR8178434
+Read 54433 spots for SRR8178436
+Written 54433 spots for SRR8178436
+Read 62919 spots for SRR8178437
+Written 62919 spots for SRR8178437
+Read 58622 spots for SRR8178442
+Written 58622 spots for SRR8178442
+Read 80363 spots for SRR8178443
+Written 80363 spots for SRR8178443
+Read 59539 spots for SRR8178446
+Written 59539 spots for SRR8178446
+Read 115894 spots for SRR8178447
+Written 115894 spots for SRR8178447
+Read 26534 spots for SRR8178450
+Written 26534 spots for SRR8178450
+Read 32157 spots for SRR8178452
+Written 32157 spots for SRR8178452
+Read 25883 spots for SRR8178455
+Written 25883 spots for SRR8178455
+Read 77417 spots for SRR8178457
+Written 77417 spots for SRR8178457
+Read 120311 spots for SRR8178466
+Written 120311 spots for SRR8178466
+Read 115188 spots for SRR8178467
+Written 115188 spots for SRR8178467
+Read 118894 spots for SRR8178468
+Written 118894 spots for SRR8178468
+Read 37403 spots for SRR8178469
+Written 37403 spots for SRR8178469
+Read 4942 spots for SRR8178472
+Written 4942 spots for SRR8178472
+Read 25010 spots for SRR8178476
+Written 25010 spots for SRR8178476
+Read 47884 spots for SRR8178477
+Written 47884 spots for SRR8178477
+Read 40441 spots for SRR8178483
+Written 40441 spots for SRR8178483
+Read 9322 spots for SRR8178484
+Written 9322 spots for SRR8178484
+Read 30671 spots for SRR8178486
+Written 30671 spots for SRR8178486
+Read 6991 spots for SRR8178488
+Written 6991 spots for SRR8178488
+Read 9835 spots for SRR8178490
+Written 9835 spots for SRR8178490
+Read 10545 spots for SRR8178491
+Written 10545 spots for SRR8178491
+Read 64146 spots for SRR8178494
+Written 64146 spots for SRR8178494
+Read 81164 spots for SRR8178496
+Written 81164 spots for SRR8178496
+Read 82920 spots for SRR8178497
+Written 82920 spots for SRR8178497
+Read 47026 spots for SRR8178501
+Written 47026 spots for SRR8178501
+Read 41036 spots for SRR8178504
+Written 41036 spots for SRR8178504
+Read 56226 spots for SRR8178506
+Written 56226 spots for SRR8178506
+Read 67143 spots for SRR8178507
+Written 67143 spots for SRR8178507
+Read 67818 spots for SRR8178508
+Written 67818 spots for SRR8178508
+Read 45332 spots for SRR8178509
+Written 45332 spots for SRR8178509
+Read 111722 spots for SRR8178510
+Written 111722 spots for SRR8178510
+Read 80093 spots for SRR8178511
+Written 80093 spots for SRR8178511
+Read 13637 spots for SRR8178516
+Written 13637 spots for SRR8178516
+Read 18396 spots for SRR8178518
+Written 18396 spots for SRR8178518
+Read 7730 spots for SRR8178520
+Written 7730 spots for SRR8178520
+Read 6899 spots for SRR8178523
+Written 6899 spots for SRR8178523
+Read 40713 spots for SRR8178525
+Written 40713 spots for SRR8178525
+Read 5395 spots for SRR8178528
+Written 5395 spots for SRR8178528
+Read 10985 spots for SRR8178530
+Written 10985 spots for SRR8178530
+Read 11577 spots for SRR8178531
+Written 11577 spots for SRR8178531
+Read 13792 spots for SRR8178533
+Written 13792 spots for SRR8178533
+Read 9363 spots for SRR8178534
+Written 9363 spots for SRR8178534
+Read 15145 spots for SRR8178535
+Written 15145 spots for SRR8178535
+Read 93940 spots for SRR8178538
+Written 93940 spots for SRR8178538
+Read 15618 spots for SRR8178539
+Written 15618 spots for SRR8178539
+Read 54577 spots for SRR8178541
+Written 54577 spots for SRR8178541
+Read 55720 spots for SRR8178543
+Written 55720 spots for SRR8178543
+Read 52501 spots for SRR8178544
+Written 52501 spots for SRR8178544
+Read 37037 spots for SRR8178546
+Written 37037 spots for SRR8178546
+Read 36606 spots for SRR8178548
+Written 36606 spots for SRR8178548
+Read 38365 spots for SRR8178549
+Written 38365 spots for SRR8178549
+Read 34548 spots for SRR8178552
+Written 34548 spots for SRR8178552
+Read 16408 spots for SRR8178554
+Written 16408 spots for SRR8178554
+Read 47278 spots for SRR8178555
+Written 47278 spots for SRR8178555
+Read 51538 spots for SRR8178115
+Written 51538 spots for SRR8178115
+Read 36931 spots for SRR8178117
+Written 36931 spots for SRR8178117
+Read 54453 spots for SRR8178118
+Written 54453 spots for SRR8178118
+Read 98539 spots for SRR8178119
+Written 98539 spots for SRR8178119
+Read 47126 spots for SRR8178120
+Written 47126 spots for SRR8178120
+Read 121493 spots for SRR8178122
+Written 121493 spots for SRR8178122
+Read 106620 spots for SRR8178124
+Written 106620 spots for SRR8178124
+Read 73781 spots for SRR8178127
+Written 73781 spots for SRR8178127
+Read 90452 spots for SRR8178128
+Written 90452 spots for SRR8178128
+Read 58378 spots for SRR8178131
+Written 58378 spots for SRR8178131
+Read 44761 spots for SRR8178137
+Written 44761 spots for SRR8178137
+Read 19721 spots for SRR8178138
+Written 19721 spots for SRR8178138
+Read 41711 spots for SRR8178140
+Written 41711 spots for SRR8178140
+Read 72106 spots for SRR8178141
+Written 72106 spots for SRR8178141
+Read 39627 spots for SRR8178146
+Written 39627 spots for SRR8178146
+Read 92915 spots for SRR8178148
+Written 92915 spots for SRR8178148
+Read 29688 spots for SRR8178153
+Written 29688 spots for SRR8178153
+Read 82535 spots for SRR8178154
+Written 82535 spots for SRR8178154
+Read 119214 spots for SRR8178156
+Written 119214 spots for SRR8178156
+Read 35570 spots for SRR8178158
+Written 35570 spots for SRR8178158
+Read 372 spots for SRR8178160
+Written 372 spots for SRR8178160
+Read 5884 spots for SRR8178161
+Written 5884 spots for SRR8178161
+Read 1799 spots for SRR8178162
+Written 1799 spots for SRR8178162
+Read 688 spots for SRR8178163
+Written 688 spots for SRR8178163
+Read 1318 spots for SRR8178164
+Written 1318 spots for SRR8178164
+Read 848 spots for SRR8178165
+Written 848 spots for SRR8178165
+Read 1980 spots for SRR8178166
+Written 1980 spots for SRR8178166
+Read 1249 spots for SRR8178168
+Written 1249 spots for SRR8178168
+Read 11222 spots for SRR8178169
+Written 11222 spots for SRR8178169
+Read 56441 spots for SRR8178170
+Written 56441 spots for SRR8178170
+Read 117046 spots for SRR8178172
+Written 117046 spots for SRR8178172
+Read 117936 spots for SRR8178174
+Written 117936 spots for SRR8178174
+Read 4433 spots for SRR8178176
+Written 4433 spots for SRR8178176
+Read 160289 spots for SRR8178178
+Written 160289 spots for SRR8178178
+Read 101442 spots for SRR8178180
+Written 101442 spots for SRR8178180
+Read 94435 spots for SRR8178181
+Written 94435 spots for SRR8178181
+Read 74216 spots for SRR8178182
+Written 74216 spots for SRR8178182
+Read 119887 spots for SRR8178183
+Written 119887 spots for SRR8178183
+Read 112064 spots for SRR8178185
+Written 112064 spots for SRR8178185
+Read 96651 spots for SRR8178188
+Written 96651 spots for SRR8178188
+Read 86365 spots for SRR8178189
+Written 86365 spots for SRR8178189
+Read 55447 spots for SRR8178193
+Written 55447 spots for SRR8178193
+Read 33675 spots for SRR8178197
+Written 33675 spots for SRR8178197
+Read 33777 spots for SRR8178201
+Written 33777 spots for SRR8178201
+Read 30223 spots for SRR8178202
+Written 30223 spots for SRR8178202
+Read 118601 spots for SRR8178203
+Written 118601 spots for SRR8178203
+Read 23951 spots for SRR8178205
+Written 23951 spots for SRR8178205
+Read 58171 spots for SRR8178207
+Written 58171 spots for SRR8178207
+Read 29299 spots for SRR8178209
+Written 29299 spots for SRR8178209
+Read 123580 spots for SRR8178210
+Written 123580 spots for SRR8178210
+Read 59425 spots for SRR8178211
+Written 59425 spots for SRR8178211
+Read 149823 spots for SRR8178216
+Written 149823 spots for SRR8178216
+Read 76291 spots for SRR8178217
+Written 76291 spots for SRR8178217
+Read 19018 spots for SRR8178222
+Written 19018 spots for SRR8178222
+Read 10579 spots for SRR8178224
+Written 10579 spots for SRR8178224
+Read 70483 spots for SRR8178225
+Written 70483 spots for SRR8178225
+Read 8948 spots for SRR8178226
+Written 8948 spots for SRR8178226
+Read 32516 spots for SRR8178228
+Written 32516 spots for SRR8178228
+Read 59966 spots for SRR8178229
+Written 59966 spots for SRR8178229
+Read 41249 spots for SRR8178231
+Written 41249 spots for SRR8178231
+Read 100065 spots for SRR8178236
+Written 100065 spots for SRR8178236
+Read 16394 spots for SRR8178238
+Written 16394 spots for SRR8178238
+Read 25545 spots for SRR8178239
+Written 25545 spots for SRR8178239
+Read 70854 spots for SRR8178241
+Written 70854 spots for SRR8178241
+Read 52856 spots for SRR8178243
+Written 52856 spots for SRR8178243
+Read 19728 spots for SRR8178244
+Written 19728 spots for SRR8178244
+Read 23407 spots for SRR8178245
+Written 23407 spots for SRR8178245
+Read 29336 spots for SRR8178247
+Written 29336 spots for SRR8178247
+Read 64995 spots for SRR8178248
+Written 64995 spots for SRR8178248
+Read 5855 spots for SRR8178251
+Written 5855 spots for SRR8178251
+Read 54074 spots for SRR8178252
+Written 54074 spots for SRR8178252
+Read 77109 spots for SRR8178255
+Written 77109 spots for SRR8178255
+Read 92855 spots for SRR8178257
+Written 92855 spots for SRR8178257
+Read 92583 spots for SRR8178258
+Written 92583 spots for SRR8178258
+Read 127809 spots for SRR8178259
+Written 127809 spots for SRR8178259
+Read 22051 spots for SRR8178262
+Written 22051 spots for SRR8178262
+Read 11439 spots for SRR8178265
+Written 11439 spots for SRR8178265
+Read 7498 spots for SRR8178267
+Written 7498 spots for SRR8178267
+Read 7589 spots for SRR8178268
+Written 7589 spots for SRR8178268
+Read 8392 spots for SRR8178269
+Written 8392 spots for SRR8178269
+Read 87646 spots for SRR8178270
+Written 87646 spots for SRR8178270
+Read 26676 spots for SRR8178271
+Written 26676 spots for SRR8178271
+Read 31521 spots for SRR8178273
+Written 31521 spots for SRR8178273
+Read 4356 spots for SRR8178276
+Written 4356 spots for SRR8178276
+Read 25015 spots for SRR8178278
+Written 25015 spots for SRR8178278
+Read 48626 spots for SRR8178280
+Written 48626 spots for SRR8178280
+Read 81207 spots for SRR8178281
+Written 81207 spots for SRR8178281
+Read 96972 spots for SRR8178283
+Written 96972 spots for SRR8178283
+Read 50348 spots for SRR8178287
+Written 50348 spots for SRR8178287
+Read 32617 spots for SRR8178289
+Written 32617 spots for SRR8178289
+Read 35430 spots for SRR8178290
+Written 35430 spots for SRR8178290
+Read 67671 spots for SRR8178292
+Written 67671 spots for SRR8178292
+Read 50877 spots for SRR8178293
+Written 50877 spots for SRR8178293
+Read 31458 spots for SRR8178295
+Written 31458 spots for SRR8178295
+Read 74446 spots for SRR8178297
+Written 74446 spots for SRR8178297
+Read 70222 spots for SRR8178299
+Written 70222 spots for SRR8178299
+Read 85047 spots for SRR8178301
+Written 85047 spots for SRR8178301
+Read 49015 spots for SRR8178303
+Written 49015 spots for SRR8178303
+Read 62122 spots for SRR8178304
+Written 62122 spots for SRR8178304
+Read 76968 spots for SRR8178305
+Written 76968 spots for SRR8178305
+Read 55511 spots for SRR8178308
+Written 55511 spots for SRR8178308
+Read 37468 spots for SRR8178309
+Written 37468 spots for SRR8178309
+Read 93451 spots for SRR8178311
+Written 93451 spots for SRR8178311
+Read 51291 spots for SRR8178313
+Written 51291 spots for SRR8178313
+Read 75026 spots for SRR8178315
+Written 75026 spots for SRR8178315
+Read 59059 spots for SRR8178318
+Written 59059 spots for SRR8178318
+Read 59511 spots for SRR8178322
+Written 59511 spots for SRR8178322
+Read 84722 spots for SRR8178323
+Written 84722 spots for SRR8178323
+Read 118137 spots for SRR8178325
+Written 118137 spots for SRR8178325
+Read 41935 spots for SRR8178326
+Written 41935 spots for SRR8178326
+Read 55028 spots for SRR8178329
+Written 55028 spots for SRR8178329
+Read 31134 spots for SRR8178331
+Written 31134 spots for SRR8178331
+Read 102215 spots for SRR8178332
+Written 102215 spots for SRR8178332
+Read 54600 spots for SRR8178333
+Written 54600 spots for SRR8178333
+Read 29974 spots for SRR8178340
+Written 29974 spots for SRR8178340
+Read 39035 spots for SRR8178342
+Written 39035 spots for SRR8178342
+Read 34809 spots for SRR8178344
+Written 34809 spots for SRR8178344
+Read 58623 spots for SRR8178348
+Written 58623 spots for SRR8178348
+Read 54962 spots for SRR8178350
+Written 54962 spots for SRR8178350
+Read 45269 spots for SRR8178352
+Written 45269 spots for SRR8178352
+Read 50163 spots for SRR8178353
+Written 50163 spots for SRR8178353
+Read 34255 spots for SRR8178355
+Written 34255 spots for SRR8178355
+Read 34702 spots for SRR8178357
+Written 34702 spots for SRR8178357
+Read 2229 spots for SRR8178360
+Written 2229 spots for SRR8178360
+Read 32740 spots for SRR8178363
+Written 32740 spots for SRR8178363
+Read 47020 spots for SRR8178364
+Written 47020 spots for SRR8178364
+Read 70149 spots for SRR8178366
+Written 70149 spots for SRR8178366
+Read 82511 spots for SRR8178368
+Written 82511 spots for SRR8178368
+Read 81355 spots for SRR8178370
+Written 81355 spots for SRR8178370
+Read 119489 spots for SRR8178375
+Written 119489 spots for SRR8178375
+Read 55028 spots for SRR8178378
+Written 55028 spots for SRR8178378
+Read 143649 spots for SRR8178380
+Written 143649 spots for SRR8178380
+Read 7644 spots for SRR8178382
+Written 7644 spots for SRR8178382
+Read 46113 spots for SRR8178383
+Written 46113 spots for SRR8178383
+Read 2177 spots for SRR8178391
+Written 2177 spots for SRR8178391
+Read 13061 spots for SRR8178392
+Written 13061 spots for SRR8178392
+Read 929 spots for SRR8178393
+Written 929 spots for SRR8178393
+Read 11466 spots for SRR8178394
+Written 11466 spots for SRR8178394
+Read 2107 spots for SRR8178396
+Written 2107 spots for SRR8178396
+Read 58270 spots for SRR8178398
+Written 58270 spots for SRR8178398
+Read 48231 spots for SRR8178401
+Written 48231 spots for SRR8178401
+Read 18008 spots for SRR8178402
+Written 18008 spots for SRR8178402
+Read 17109 spots for SRR8178405
+Written 17109 spots for SRR8178405
+Read 53482 spots for SRR8178407
+Written 53482 spots for SRR8178407
+Read 81056 spots for SRR8178409
+Written 81056 spots for SRR8178409
+Read 35242 spots for SRR8178411
+Written 35242 spots for SRR8178411
+Read 34948 spots for SRR8178415
+Written 34948 spots for SRR8178415
+Read 68943 spots for SRR8178416
+Written 68943 spots for SRR8178416
+Read 44814 spots for SRR8178417
+Written 44814 spots for SRR8178417
+Read 71528 spots for SRR8178421
+Written 71528 spots for SRR8178421
+Read 26784 spots for SRR8178422
+Written 26784 spots for SRR8178422
+Read 131369 spots for SRR8178423
+Written 131369 spots for SRR8178423
+Read 10186 spots for SRR8178425
+Written 10186 spots for SRR8178425
+Read 18587 spots for SRR8178426
+Written 18587 spots for SRR8178426
+Read 32411 spots for SRR8178429
+Written 32411 spots for SRR8178429
+Read 30360 spots for SRR8178431
+Written 30360 spots for SRR8178431
+Read 38424 spots for SRR8178432
+Written 38424 spots for SRR8178432
+Read 50190 spots for SRR8178435
+Written 50190 spots for SRR8178435
+Read 40643 spots for SRR8178438
+Written 40643 spots for SRR8178438
+Read 51253 spots for SRR8178440
+Written 51253 spots for SRR8178440
+Read 76363 spots for SRR8178441
+Written 76363 spots for SRR8178441
+Read 47271 spots for SRR8178444
+Written 47271 spots for SRR8178444
+Read 44883 spots for SRR8178445
+Written 44883 spots for SRR8178445
+Read 54331 spots for SRR8178448
+Written 54331 spots for SRR8178448
+Read 68248 spots for SRR8178449
+Written 68248 spots for SRR8178449
+Read 67465 spots for SRR8178451
+Written 67465 spots for SRR8178451
+Read 5719 spots for SRR8178453
+Written 5719 spots for SRR8178453
+Read 68530 spots for SRR8178454
+Written 68530 spots for SRR8178454
+Read 40197 spots for SRR8178456
+Written 40197 spots for SRR8178456
+Read 90103 spots for SRR8178458
+Written 90103 spots for SRR8178458
+Read 34774 spots for SRR8178459
+Written 34774 spots for SRR8178459
+Read 72022 spots for SRR8178460
+Written 72022 spots for SRR8178460
+Read 66319 spots for SRR8178462
+Written 66319 spots for SRR8178462
+Read 32380 spots for SRR8178463
+Written 32380 spots for SRR8178463
+Read 129075 spots for SRR8178464
+Written 129075 spots for SRR8178464
+Read 31665 spots for SRR8178465
+Written 31665 spots for SRR8178465
+Read 82900 spots for SRR8178470
+Written 82900 spots for SRR8178470
+Read 2607 spots for SRR8178471
+Written 2607 spots for SRR8178471
+Read 127533 spots for SRR8178473
+Written 127533 spots for SRR8178473
+Read 137780 spots for SRR8178474
+Written 137780 spots for SRR8178474
+Read 63092 spots for SRR8178475
+Written 63092 spots for SRR8178475
+Read 9315 spots for SRR8178478
+Written 9315 spots for SRR8178478
+Read 6697 spots for SRR8178479
+Written 6697 spots for SRR8178479
+Read 14112 spots for SRR8178481
+Written 14112 spots for SRR8178481
+Read 6300 spots for SRR8178482
+Written 6300 spots for SRR8178482
+Read 22959 spots for SRR8178485
+Written 22959 spots for SRR8178485
+Read 37772 spots for SRR8178487
+Written 37772 spots for SRR8178487
+Read 5791 spots for SRR8178489
+Written 5791 spots for SRR8178489
+Read 88925 spots for SRR8178492
+Written 88925 spots for SRR8178492
+Read 47723 spots for SRR8178493
+Written 47723 spots for SRR8178493
+Read 51872 spots for SRR8178495
+Written 51872 spots for SRR8178495
+Read 103849 spots for SRR8178498
+Written 103849 spots for SRR8178498
+Read 128631 spots for SRR8178499
+Written 128631 spots for SRR8178499
+Read 86998 spots for SRR8178500
+Written 86998 spots for SRR8178500
+Read 34831 spots for SRR8178502
+Written 34831 spots for SRR8178502
+Read 133846 spots for SRR8178503
+Written 133846 spots for SRR8178503
+Read 32369 spots for SRR8178505
+Written 32369 spots for SRR8178505
+Read 45792 spots for SRR8178512
+Written 45792 spots for SRR8178512
+Read 41479 spots for SRR8178513
+Written 41479 spots for SRR8178513
+Read 5487 spots for SRR8178514
+Written 5487 spots for SRR8178514
+Read 9176 spots for SRR8178515
+Written 9176 spots for SRR8178515
+Read 7880 spots for SRR8178517
+Written 7880 spots for SRR8178517
+Read 10239 spots for SRR8178519
+Written 10239 spots for SRR8178519
+Read 4955 spots for SRR8178521
+Written 4955 spots for SRR8178521
+Read 6683 spots for SRR8178522
+Written 6683 spots for SRR8178522
+Read 35629 spots for SRR8178524
+Written 35629 spots for SRR8178524
+Read 8019 spots for SRR8178526
+Written 8019 spots for SRR8178526
+Read 6759 spots for SRR8178527
+Written 6759 spots for SRR8178527
+Read 5588 spots for SRR8178529
+Written 5588 spots for SRR8178529
+Read 8561 spots for SRR8178532
+Written 8561 spots for SRR8178532
+Read 60799 spots for SRR8178536
+Written 60799 spots for SRR8178536
+Read 37405 spots for SRR8178537
+Written 37405 spots for SRR8178537
+Read 43069 spots for SRR8178540
+Written 43069 spots for SRR8178540
+Read 33268 spots for SRR8178545
+Written 33268 spots for SRR8178545
+Read 30978 spots for SRR8178547
+Written 30978 spots for SRR8178547
+Read 57949 spots for SRR8178551
+Written 57949 spots for SRR8178551
+Read 35155 spots for SRR8178553
+Written 35155 spots for SRR8178553
+Read 85182 spots for SRR8178374
+Written 85182 spots for SRR8178374
+Read 71319 spots for SRR8178424
+Written 71319 spots for SRR8178424
+Read 32251 spots for SRR8178381
+Written 32251 spots for SRR8178381
+Read 20056 spots for SRR8178403
+Written 20056 spots for SRR8178403
+Read 46026 spots for SRR8178461
+Written 46026 spots for SRR8178461
+Read 55781 spots for SRR8178314
+Written 55781 spots for SRR8178314
+Read 46491 spots for SRR8178198
+Written 46491 spots for SRR8178198
+Read 51745 spots for SRR8178307
+Written 51745 spots for SRR8178307
+Read 23295 spots for SRR8178480
+Written 23295 spots for SRR8178480
+Read 30589 spots for SRR8178550
+Written 30589 spots for SRR8178550
+Read 31213 spots for SRR8178400
+Written 31213 spots for SRR8178400
+Read 22590 spots for SRR8178406
+Written 22590 spots for SRR8178406
+Read 2854 spots for SRR8178338
+Written 2854 spots for SRR8178338
+Read 44419 spots for SRR8178439
+Written 44419 spots for SRR8178439
+Read 28339 spots for SRR8178389
+Written 28339 spots for SRR8178389
+Read 60405 spots for SRR8178328
+Written 60405 spots for SRR8178328
+Read 41669 spots for SRR8178542
+Written 41669 spots for SRR8178542
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Tipton_2019/SraRunTable.csv"
+Rejected 172 READS because of filtering out non-biological READS
+Read 11695 spots for SRR8318533
+Written 11523 spots for SRR8318533
+Rejected 39 READS because of filtering out non-biological READS
+Read 1856 spots for SRR8318534
+Written 1817 spots for SRR8318534
+Rejected 95 READS because of filtering out non-biological READS
+Read 8211 spots for SRR8318535
+Written 8116 spots for SRR8318535
+Rejected 99 READS because of filtering out non-biological READS
+Read 7753 spots for SRR8318536
+Written 7654 spots for SRR8318536
+Rejected 94 READS because of filtering out non-biological READS
+Read 8056 spots for SRR8318537
+Written 7962 spots for SRR8318537
+Rejected 112 READS because of filtering out non-biological READS
+Read 6925 spots for SRR8318538
+Written 6813 spots for SRR8318538
+Rejected 31 READS because of filtering out non-biological READS
+Read 2631 spots for SRR8318539
+Written 2600 spots for SRR8318539
+Rejected 69 READS because of filtering out non-biological READS
+Read 3872 spots for SRR8318540
+Written 3803 spots for SRR8318540
+Rejected 129 READS because of filtering out non-biological READS
+Read 8508 spots for SRR8318541
+Written 8379 spots for SRR8318541
+Rejected 120 READS because of filtering out non-biological READS
+Read 9046 spots for SRR8318542
+Written 8926 spots for SRR8318542
+Rejected 199 READS because of filtering out non-biological READS
+Read 16026 spots for SRR8318543
+Written 15827 spots for SRR8318543
+Rejected 114 READS because of filtering out non-biological READS
+Read 9098 spots for SRR8318544
+Written 8984 spots for SRR8318544
+Read 53176 spots for SRR5551890
+Written 53176 spots for SRR5551890
+Read 71229 spots for SRR5551892
+Written 71229 spots for SRR5551892
+Read 104812 spots for SRR5551899
+Written 104812 spots for SRR5551899
+Read 60896 spots for SRR5551902
+Written 60896 spots for SRR5551902
+Read 56096 spots for SRR5551903
+Written 56096 spots for SRR5551903
+Read 10475 spots for SRR5551908
+Written 10475 spots for SRR5551908
+Read 75 spots for SRR5551909
+Written 75 spots for SRR5551909
+Read 75 spots for SRR5551913
+Written 75 spots for SRR5551913
+Read 97 spots for SRR5551918
+Written 97 spots for SRR5551918
+Read 79371 spots for SRR5551990
+Written 79371 spots for SRR5551990
+Read 77691 spots for SRR5552002
+Written 77691 spots for SRR5552002
+Read 49922 spots for SRR5552004
+Written 49922 spots for SRR5552004
+Read 99373 spots for SRR5552005
+Written 99373 spots for SRR5552005
+Read 37065 spots for SRR5552008
+Written 37065 spots for SRR5552008
+Read 87807 spots for SRR5552009
+Written 87807 spots for SRR5552009
+Read 72471 spots for SRR5552010
+Written 72471 spots for SRR5552010
+Read 51719 spots for SRR5552012
+Written 51719 spots for SRR5552012
+Read 10568 spots for SRR5552029
+Written 10568 spots for SRR5552029
+Read 8238 spots for SRR5552033
+Written 8238 spots for SRR5552033
+Read 955 spots for SRR5552041
+Written 955 spots for SRR5552041
+Read 19 spots for SRR5552044
+Written 19 spots for SRR5552044
+Read 65 spots for SRR5552046
+Written 65 spots for SRR5552046
+Read 65 spots for SRR5552047
+Written 65 spots for SRR5552047
+Read 40 spots for SRR5552048
+Written 40 spots for SRR5552048
+Read 40 spots for SRR5552051
+Written 40 spots for SRR5552051
+Read 30 spots for SRR5552052
+Written 30 spots for SRR5552052
+Read 66 spots for SRR5552054
+Written 66 spots for SRR5552054
+Read 36348 spots for SRR5552066
+Written 36348 spots for SRR5552066
+Read 54101 spots for SRR5552086
+Written 54101 spots for SRR5552086
+Read 80512 spots for SRR5552094
+Written 80512 spots for SRR5552094
+Read 74462 spots for SRR5552098
+Written 74462 spots for SRR5552098
+Read 19670 spots for SRR5552103
+Written 19670 spots for SRR5552103
+Read 50382 spots for SRR5552110
+Written 50382 spots for SRR5552110
+Read 16325 spots for SRR5552115
+Written 16325 spots for SRR5552115
+Read 118 spots for SRR5552157
+Written 118 spots for SRR5552157
+Read 154 spots for SRR5552160
+Written 154 spots for SRR5552160
+Read 124 spots for SRR5552162
+Written 124 spots for SRR5552162
+Read 1287 spots for SRR5552163
+Written 1287 spots for SRR5552163
+Read 32 spots for SRR5552165
+Written 32 spots for SRR5552165
+Read 44 spots for SRR5552166
+Written 44 spots for SRR5552166
+Read 1594 spots for SRR5552167
+Written 1594 spots for SRR5552167
+Read 587 spots for SRR5552168
+Written 587 spots for SRR5552168
+Read 234 spots for SRR5552169
+Written 234 spots for SRR5552169
+Read 94 spots for SRR5552170
+Written 94 spots for SRR5552170
+Read 86 spots for SRR5552173
+Written 86 spots for SRR5552173
+Read 68954 spots for SRR5552197
+Written 68954 spots for SRR5552197
+Read 70384 spots for SRR5552231
+Written 70384 spots for SRR5552231
+Read 42980 spots for SRR5552238
+Written 42980 spots for SRR5552238
+Read 56395 spots for SRR5552239
+Written 56395 spots for SRR5552239
+Read 58089 spots for SRR5551907
+Written 58089 spots for SRR5551907
+Read 71864 spots for SRR5551917
+Written 71864 spots for SRR5551917
+Read 85550 spots for SRR5551919
+Written 85550 spots for SRR5551919
+Read 55057 spots for SRR5551922
+Written 55057 spots for SRR5551922
+Read 7767 spots for SRR5551924
+Written 7767 spots for SRR5551924
+Read 681 spots for SRR5551930
+Written 681 spots for SRR5551930
+Read 92 spots for SRR5551933
+Written 92 spots for SRR5551933
+Read 103 spots for SRR5551934
+Written 103 spots for SRR5551934
+Read 17386 spots for SRR5551936
+Written 17386 spots for SRR5551936
+Read 288 spots for SRR5551937
+Written 288 spots for SRR5551937
+Read 282 spots for SRR5551940
+Written 282 spots for SRR5551940
+Read 85 spots for SRR5551941
+Written 85 spots for SRR5551941
+Read 30 spots for SRR5551944
+Written 30 spots for SRR5551944
+Read 3768 spots for SRR5551945
+Written 3768 spots for SRR5551945
+Read 173 spots for SRR5551949
+Written 173 spots for SRR5551949
+Read 16 spots for SRR5551950
+Written 16 spots for SRR5551950
+Read 567 spots for SRR5551952
+Written 567 spots for SRR5551952
+Read 3303 spots for SRR5551953
+Written 3303 spots for SRR5551953
+Read 3090 spots for SRR5551982
+Written 3090 spots for SRR5551982
+Read 165 spots for SRR5551983
+Written 165 spots for SRR5551983
+Read 97 spots for SRR5551987
+Written 97 spots for SRR5551987
+Read 54122 spots for SRR5551978
+Written 54122 spots for SRR5551978
+Read 65538 spots for SRR5551980
+Written 65538 spots for SRR5551980
+Read 53347 spots for SRR5551981
+Written 53347 spots for SRR5551981
+Read 120571 spots for SRR5551985
+Written 120571 spots for SRR5551985
+Read 102915 spots for SRR5551986
+Written 102915 spots for SRR5551986
+Read 8583 spots for SRR5551999
+Written 8583 spots for SRR5551999
+Read 11554 spots for SRR5552013
+Written 11554 spots for SRR5552013
+Read 1773 spots for SRR5552018
+Written 1773 spots for SRR5552018
+Read 609 spots for SRR5552019
+Written 609 spots for SRR5552019
+Read 329 spots for SRR5552021
+Written 329 spots for SRR5552021
+Read 905 spots for SRR5552022
+Written 905 spots for SRR5552022
+Read 455 spots for SRR5552023
+Written 455 spots for SRR5552023
+Read 11340 spots for SRR5551886
+Written 11340 spots for SRR5551886
+Read 688 spots for SRR5551887
+Written 688 spots for SRR5551887
+Read 52 spots for SRR5551888
+Written 52 spots for SRR5551888
+Read 1620 spots for SRR5551889
+Written 1620 spots for SRR5551889
+Read 20884 spots for SRR5551891
+Written 20884 spots for SRR5551891
+Read 148 spots for SRR5551893
+Written 148 spots for SRR5551893
+Read 943 spots for SRR5551894
+Written 943 spots for SRR5551894
+Read 5758 spots for SRR5551895
+Written 5758 spots for SRR5551895
+Read 1644 spots for SRR5551896
+Written 1644 spots for SRR5551896
+Read 18523 spots for SRR5551897
+Written 18523 spots for SRR5551897
+Read 147 spots for SRR5551898
+Written 147 spots for SRR5551898
+Read 4807 spots for SRR5551900
+Written 4807 spots for SRR5551900
+Read 6 spots for SRR5551901
+Written 6 spots for SRR5551901
+Read 1739 spots for SRR5551904
+Written 1739 spots for SRR5551904
+Read 108 spots for SRR5551905
+Written 108 spots for SRR5551905
+Read 29056 spots for SRR5551906
+Written 29056 spots for SRR5551906
+Read 54790 spots for SRR5551910
+Written 54790 spots for SRR5551910
+Read 24843 spots for SRR5551911
+Written 24843 spots for SRR5551911
+Read 51039 spots for SRR5551912
+Written 51039 spots for SRR5551912
+Read 18570 spots for SRR5551914
+Written 18570 spots for SRR5551914
+Read 93613 spots for SRR5551915
+Written 93613 spots for SRR5551915
+Read 51570 spots for SRR5551916
+Written 51570 spots for SRR5551916
+Read 73462 spots for SRR5551920
+Written 73462 spots for SRR5551920
+Read 465 spots for SRR5551921
+Written 465 spots for SRR5551921
+Read 5142 spots for SRR5551923
+Written 5142 spots for SRR5551923
+Read 17 spots for SRR5551925
+Written 17 spots for SRR5551925
+Read 33186 spots for SRR5551926
+Written 33186 spots for SRR5551926
+Read 73965 spots for SRR5551927
+Written 73965 spots for SRR5551927
+Read 24 spots for SRR5551928
+Written 24 spots for SRR5551928
+Read 17 spots for SRR5551929
+Written 17 spots for SRR5551929
+Read 39301 spots for SRR5551931
+Written 39301 spots for SRR5551931
+Read 93716 spots for SRR5551932
+Written 93716 spots for SRR5551932
+Read 6146 spots for SRR5551938
+Written 6146 spots for SRR5551938
+Read 13448 spots for SRR5551942
+Written 13448 spots for SRR5551942
+Read 11439 spots for SRR5551943
+Written 11439 spots for SRR5551943
+Read 54513 spots for SRR5551946
+Written 54513 spots for SRR5551946
+Read 4818 spots for SRR5551948
+Written 4818 spots for SRR5551948
+Read 63696 spots for SRR5551951
+Written 63696 spots for SRR5551951
+Read 23426 spots for SRR5551956
+Written 23426 spots for SRR5551956
+Read 46840 spots for SRR5551957
+Written 46840 spots for SRR5551957
+Read 204 spots for SRR5551959
+Written 204 spots for SRR5551959
+Read 47 spots for SRR5551960
+Written 47 spots for SRR5551960
+Read 2196 spots for SRR5551961
+Written 2196 spots for SRR5551961
+Read 26 spots for SRR5551962
+Written 26 spots for SRR5551962
+Read 121 spots for SRR5551963
+Written 121 spots for SRR5551963
+Read 607 spots for SRR5551964
+Written 607 spots for SRR5551964
+Read 62 spots for SRR5551965
+Written 62 spots for SRR5551965
+Read 179 spots for SRR5551966
+Written 179 spots for SRR5551966
+Read 1297 spots for SRR5551967
+Written 1297 spots for SRR5551967
+Read 49 spots for SRR5551968
+Written 49 spots for SRR5551968
+Read 81 spots for SRR5551970
+Written 81 spots for SRR5551970
+Read 23891 spots for SRR5551971
+Written 23891 spots for SRR5551971
+Read 38 spots for SRR5551972
+Written 38 spots for SRR5551972
+Read 499 spots for SRR5551973
+Written 499 spots for SRR5551973
+Read 7725 spots for SRR5551974
+Written 7725 spots for SRR5551974
+Read 58968 spots for SRR5551976
+Written 58968 spots for SRR5551976
+Read 173 spots for SRR5551977
+Written 173 spots for SRR5551977
+Read 68688 spots for SRR5551989
+Written 68688 spots for SRR5551989
+Read 110739 spots for SRR5551992
+Written 110739 spots for SRR5551992
+Read 94418 spots for SRR5551993
+Written 94418 spots for SRR5551993
+Read 43466 spots for SRR5551995
+Written 43466 spots for SRR5551995
+Read 72364 spots for SRR5552000
+Written 72364 spots for SRR5552000
+Read 110648 spots for SRR5552001
+Written 110648 spots for SRR5552001
+Read 63298 spots for SRR5552003
+Written 63298 spots for SRR5552003
+Read 2185 spots for SRR5552007
+Written 2185 spots for SRR5552007
+Read 23 spots for SRR5552011
+Written 23 spots for SRR5552011
+Read 4363 spots for SRR5552020
+Written 4363 spots for SRR5552020
+Read 13483 spots for SRR5552025
+Written 13483 spots for SRR5552025
+Read 56701 spots for SRR5552026
+Written 56701 spots for SRR5552026
+Read 108 spots for SRR5552027
+Written 108 spots for SRR5552027
+Read 57264 spots for SRR5552028
+Written 57264 spots for SRR5552028
+Read 26866 spots for SRR5552030
+Written 26866 spots for SRR5552030
+Read 65817 spots for SRR5552032
+Written 65817 spots for SRR5552032
+Read 16 spots for SRR5552037
+Written 16 spots for SRR5552037
+Read 116 spots for SRR5552038
+Written 116 spots for SRR5552038
+Read 52174 spots for SRR5552039
+Written 52174 spots for SRR5552039
+Read 126 spots for SRR5552042
+Written 126 spots for SRR5552042
+Read 62809 spots for SRR5552053
+Written 62809 spots for SRR5552053
+Read 7731 spots for SRR5552056
+Written 7731 spots for SRR5552056
+Read 18930 spots for SRR5552057
+Written 18930 spots for SRR5552057
+Read 534 spots for SRR5552058
+Written 534 spots for SRR5552058
+Read 994 spots for SRR5552059
+Written 994 spots for SRR5552059
+Read 3567 spots for SRR5552060
+Written 3567 spots for SRR5552060
+Read 542 spots for SRR5552063
+Written 542 spots for SRR5552063
+Read 49 spots for SRR5552064
+Written 49 spots for SRR5552064
+Read 1985 spots for SRR5552067
+Written 1985 spots for SRR5552067
+Read 378 spots for SRR5552068
+Written 378 spots for SRR5552068
+Read 61 spots for SRR5552069
+Written 61 spots for SRR5552069
+Read 88 spots for SRR5552073
+Written 88 spots for SRR5552073
+Read 53 spots for SRR5552074
+Written 53 spots for SRR5552074
+Read 73 spots for SRR5552077
+Written 73 spots for SRR5552077
+Read 407 spots for SRR5552079
+Written 407 spots for SRR5552079
+Read 2 spots for SRR5552083
+Written 2 spots for SRR5552083
+Read 25 spots for SRR5552084
+Written 25 spots for SRR5552084
+Read 83 spots for SRR5552088
+Written 83 spots for SRR5552088
+Read 24 spots for SRR5552092
+Written 24 spots for SRR5552092
+Read 26 spots for SRR5552100
+Written 26 spots for SRR5552100
+Read 136 spots for SRR5552107
+Written 136 spots for SRR5552107
+Read 286 spots for SRR5552112
+Written 286 spots for SRR5552112
+Read 4296 spots for SRR5552114
+Written 4296 spots for SRR5552114
+Read 8 spots for SRR5552116
+Written 8 spots for SRR5552116
+Read 84 spots for SRR5552117
+Written 84 spots for SRR5552117
+Read 450 spots for SRR5552120
+Written 450 spots for SRR5552120
+Read 28 spots for SRR5552123
+Written 28 spots for SRR5552123
+Read 2880 spots for SRR5552124
+Written 2880 spots for SRR5552124
+Read 119 spots for SRR5552126
+Written 119 spots for SRR5552126
+Read 38070 spots for SRR5551991
+Written 38070 spots for SRR5551991
+Read 55084 spots for SRR5552045
+Written 55084 spots for SRR5552045
+Read 37536 spots for SRR5552061
+Written 37536 spots for SRR5552061
+Read 62742 spots for SRR5552062
+Written 62742 spots for SRR5552062
+Read 54150 spots for SRR5552071
+Written 54150 spots for SRR5552071
+Read 70418 spots for SRR5552075
+Written 70418 spots for SRR5552075
+Read 62241 spots for SRR5552076
+Written 62241 spots for SRR5552076
+Read 63361 spots for SRR5552078
+Written 63361 spots for SRR5552078
+Read 91872 spots for SRR5552081
+Written 91872 spots for SRR5552081
+Read 81659 spots for SRR5552087
+Written 81659 spots for SRR5552087
+Read 76670 spots for SRR5552090
+Written 76670 spots for SRR5552090
+Read 59700 spots for SRR5552093
+Written 59700 spots for SRR5552093
+Read 81919 spots for SRR5552105
+Written 81919 spots for SRR5552105
+Read 59528 spots for SRR5552118
+Written 59528 spots for SRR5552118
+Read 67302 spots for SRR5552122
+Written 67302 spots for SRR5552122
+Read 6085 spots for SRR5552127
+Written 6085 spots for SRR5552127
+Read 73581 spots for SRR5552133
+Written 73581 spots for SRR5552133
+Read 115334 spots for SRR5552134
+Written 115334 spots for SRR5552134
+Read 39 spots for SRR5552144
+Written 39 spots for SRR5552144
+Read 48321 spots for SRR5552145
+Written 48321 spots for SRR5552145
+Read 75966 spots for SRR5552146
+Written 75966 spots for SRR5552146
+Read 15592 spots for SRR5552147
+Written 15592 spots for SRR5552147
+Read 69058 spots for SRR5552148
+Written 69058 spots for SRR5552148
+Read 9617 spots for SRR5552150
+Written 9617 spots for SRR5552150
+Read 335 spots for SRR5552151
+Written 335 spots for SRR5552151
+Read 8 spots for SRR5552153
+Written 8 spots for SRR5552153
+Read 33 spots for SRR5552154
+Written 33 spots for SRR5552154
+Read 52094 spots for SRR5552155
+Written 52094 spots for SRR5552155
+Read 336 spots for SRR5552156
+Written 336 spots for SRR5552156
+Read 35135 spots for SRR5552158
+Written 35135 spots for SRR5552158
+Read 92717 spots for SRR5552159
+Written 92717 spots for SRR5552159
+Read 125098 spots for SRR5552161
+Written 125098 spots for SRR5552161
+Read 10615 spots for SRR5552164
+Written 10615 spots for SRR5552164
+Read 932 spots for SRR5552171
+Written 932 spots for SRR5552171
+Read 62285 spots for SRR5552172
+Written 62285 spots for SRR5552172
+Read 59348 spots for SRR5552174
+Written 59348 spots for SRR5552174
+Read 48969 spots for SRR5552175
+Written 48969 spots for SRR5552175
+Read 77988 spots for SRR5552176
+Written 77988 spots for SRR5552176
+Read 87383 spots for SRR5552179
+Written 87383 spots for SRR5552179
+Read 5753 spots for SRR5552180
+Written 5753 spots for SRR5552180
+Read 28707 spots for SRR5552181
+Written 28707 spots for SRR5552181
+Read 75250 spots for SRR5552183
+Written 75250 spots for SRR5552183
+Read 25 spots for SRR5552185
+Written 25 spots for SRR5552185
+Read 703 spots for SRR5552186
+Written 703 spots for SRR5552186
+Read 39 spots for SRR5552187
+Written 39 spots for SRR5552187
+Read 165 spots for SRR5552190
+Written 165 spots for SRR5552190
+Read 110 spots for SRR5552191
+Written 110 spots for SRR5552191
+Read 51116 spots for SRR5552194
+Written 51116 spots for SRR5552194
+Read 37484 spots for SRR5552204
+Written 37484 spots for SRR5552204
+Read 1177 spots for SRR5552210
+Written 1177 spots for SRR5552210
+Read 73302 spots for SRR5552211
+Written 73302 spots for SRR5552211
+Read 10302 spots for SRR5552213
+Written 10302 spots for SRR5552213
+Read 5603 spots for SRR5552222
+Written 5603 spots for SRR5552222
+Read 45 spots for SRR5552224
+Written 45 spots for SRR5552224
+Read 17 spots for SRR5552227
+Written 17 spots for SRR5552227
+Read 486 spots for SRR5552229
+Written 486 spots for SRR5552229
+Read 39036 spots for SRR5552230
+Written 39036 spots for SRR5552230
+Read 73790 spots for SRR5552232
+Written 73790 spots for SRR5552232
+Read 72 spots for SRR5552233
+Written 72 spots for SRR5552233
+Read 201 spots for SRR5552234
+Written 201 spots for SRR5552234
+Read 263 spots for SRR5552235
+Written 263 spots for SRR5552235
+Read 105 spots for SRR5552240
+Written 105 spots for SRR5552240
+Read 5300 spots for SRR5552248
+Written 5300 spots for SRR5552248
+Read 4607 spots for SRR5552253
+Written 4607 spots for SRR5552253
+Read 116 spots for SRR5552257
+Written 116 spots for SRR5552257
+Read 12758 spots for SRR5552258
+Written 12758 spots for SRR5552258
+Read 680 spots for SRR5552260
+Written 680 spots for SRR5552260
+Read 71673 spots for SRR5552017
+Written 71673 spots for SRR5552017
+Read 37451 spots for SRR5552024
+Written 37451 spots for SRR5552024
+Read 103637 spots for SRR5552031
+Written 103637 spots for SRR5552031
+Read 48024 spots for SRR5552034
+Written 48024 spots for SRR5552034
+Read 77465 spots for SRR5552035
+Written 77465 spots for SRR5552035
+Read 48814 spots for SRR5552036
+Written 48814 spots for SRR5552036
+Read 76448 spots for SRR5552040
+Written 76448 spots for SRR5552040
+Read 30982 spots for SRR5552049
+Written 30982 spots for SRR5552049
+Read 124544 spots for SRR5552050
+Written 124544 spots for SRR5552050
+Read 90997 spots for SRR5552055
+Written 90997 spots for SRR5552055
+Read 60247 spots for SRR5552065
+Written 60247 spots for SRR5552065
+Read 6577 spots for SRR5552070
+Written 6577 spots for SRR5552070
+Read 7869 spots for SRR5552072
+Written 7869 spots for SRR5552072
+Read 66 spots for SRR5552080
+Written 66 spots for SRR5552080
+Read 1710 spots for SRR5552082
+Written 1710 spots for SRR5552082
+Read 71656 spots for SRR5552085
+Written 71656 spots for SRR5552085
+Read 1889 spots for SRR5552089
+Written 1889 spots for SRR5552089
+Read 4007 spots for SRR5552091
+Written 4007 spots for SRR5552091
+Read 164 spots for SRR5552095
+Written 164 spots for SRR5552095
+Read 46 spots for SRR5552096
+Written 46 spots for SRR5552096
+Read 13625 spots for SRR5552097
+Written 13625 spots for SRR5552097
+Read 23 spots for SRR5552099
+Written 23 spots for SRR5552099
+Read 10 spots for SRR5552101
+Written 10 spots for SRR5552101
+Read 1109 spots for SRR5552102
+Written 1109 spots for SRR5552102
+Read 134 spots for SRR5552104
+Written 134 spots for SRR5552104
+Read 8666 spots for SRR5552108
+Written 8666 spots for SRR5552108
+Read 47 spots for SRR5552109
+Written 47 spots for SRR5552109
+Read 56 spots for SRR5552111
+Written 56 spots for SRR5552111
+Read 59 spots for SRR5552113
+Written 59 spots for SRR5552113
+Read 319 spots for SRR5552121
+Written 319 spots for SRR5552121
+Read 381 spots for SRR5552125
+Written 381 spots for SRR5552125
+Read 31 spots for SRR5552130
+Written 31 spots for SRR5552130
+Read 33 spots for SRR5552131
+Written 33 spots for SRR5552131
+Read 415 spots for SRR5552132
+Written 415 spots for SRR5552132
+Read 12 spots for SRR5552135
+Written 12 spots for SRR5552135
+Read 860 spots for SRR5552137
+Written 860 spots for SRR5552137
+Read 29 spots for SRR5552138
+Written 29 spots for SRR5552138
+Read 78 spots for SRR5552142
+Written 78 spots for SRR5552142
+Read 71808 spots for SRR5552195
+Written 71808 spots for SRR5552195
+Read 54678 spots for SRR5552214
+Written 54678 spots for SRR5552214
+Read 40933 spots for SRR5552223
+Written 40933 spots for SRR5552223
+Read 46601 spots for SRR5552226
+Written 46601 spots for SRR5552226
+Read 61499 spots for SRR5552236
+Written 61499 spots for SRR5552236
+Read 80679 spots for SRR5552243
+Written 80679 spots for SRR5552243
+Read 43425 spots for SRR5552254
+Written 43425 spots for SRR5552254
+Read 85125 spots for SRR5552255
+Written 85125 spots for SRR5552255
+Read 33149 spots for SRR5552256
+Written 33149 spots for SRR5552256
+Read 47818 spots for SRR5552259
+Written 47818 spots for SRR5552259
+Read 36388 spots for SRR5552261
+Written 36388 spots for SRR5552261
+Read 55223 spots for SRR5551935
+Written 55223 spots for SRR5551935
+Read 58539 spots for SRR5551939
+Written 58539 spots for SRR5551939
+Read 82788 spots for SRR5551947
+Written 82788 spots for SRR5551947
+Read 12815 spots for SRR5551954
+Written 12815 spots for SRR5551954
+Read 74439 spots for SRR5551955
+Written 74439 spots for SRR5551955
+Read 68101 spots for SRR5551958
+Written 68101 spots for SRR5551958
+Read 15423 spots for SRR5551969
+Written 15423 spots for SRR5551969
+Read 28290 spots for SRR5551975
+Written 28290 spots for SRR5551975
+Read 5480 spots for SRR5551979
+Written 5480 spots for SRR5551979
+Read 4450 spots for SRR5551984
+Written 4450 spots for SRR5551984
+Read 31 spots for SRR5551988
+Written 31 spots for SRR5551988
+Read 439 spots for SRR5551994
+Written 439 spots for SRR5551994
+Read 35 spots for SRR5551996
+Written 35 spots for SRR5551996
+Read 83 spots for SRR5551997
+Written 83 spots for SRR5551997
+Read 86 spots for SRR5551998
+Written 86 spots for SRR5551998
+Read 3079 spots for SRR5552006
+Written 3079 spots for SRR5552006
+Read 394 spots for SRR5552014
+Written 394 spots for SRR5552014
+Read 433 spots for SRR5552015
+Written 433 spots for SRR5552015
+Read 2021 spots for SRR5552016
+Written 2021 spots for SRR5552016
+Read 72474 spots for SRR5552043
+Written 72474 spots for SRR5552043
+Read 58957 spots for SRR5552106
+Written 58957 spots for SRR5552106
+Read 32041 spots for SRR5552119
+Written 32041 spots for SRR5552119
+Read 42355 spots for SRR5552128
+Written 42355 spots for SRR5552128
+Read 68411 spots for SRR5552129
+Written 68411 spots for SRR5552129
+Read 28019 spots for SRR5552136
+Written 28019 spots for SRR5552136
+Read 49783 spots for SRR5552139
+Written 49783 spots for SRR5552139
+Read 83028 spots for SRR5552140
+Written 83028 spots for SRR5552140
+Read 55494 spots for SRR5552141
+Written 55494 spots for SRR5552141
+Read 88086 spots for SRR5552143
+Written 88086 spots for SRR5552143
+Read 14823 spots for SRR5552149
+Written 14823 spots for SRR5552149
+Read 12537 spots for SRR5552152
+Written 12537 spots for SRR5552152
+Read 31855 spots for SRR5552177
+Written 31855 spots for SRR5552177
+Read 37339 spots for SRR5552178
+Written 37339 spots for SRR5552178
+Read 60900 spots for SRR5552182
+Written 60900 spots for SRR5552182
+Read 46852 spots for SRR5552184
+Written 46852 spots for SRR5552184
+Read 55187 spots for SRR5552188
+Written 55187 spots for SRR5552188
+Read 89905 spots for SRR5552189
+Written 89905 spots for SRR5552189
+Read 89 spots for SRR5552192
+Written 89 spots for SRR5552192
+Read 19 spots for SRR5552193
+Written 19 spots for SRR5552193
+Read 489 spots for SRR5552196
+Written 489 spots for SRR5552196
+Read 37 spots for SRR5552198
+Written 37 spots for SRR5552198
+Read 43 spots for SRR5552199
+Written 43 spots for SRR5552199
+Read 91 spots for SRR5552200
+Written 91 spots for SRR5552200
+Read 144 spots for SRR5552201
+Written 144 spots for SRR5552201
+Read 25552 spots for SRR5552202
+Written 25552 spots for SRR5552202
+Read 302 spots for SRR5552203
+Written 302 spots for SRR5552203
+Read 697 spots for SRR5552205
+Written 697 spots for SRR5552205
+Read 825 spots for SRR5552206
+Written 825 spots for SRR5552206
+Read 55593 spots for SRR5552207
+Written 55593 spots for SRR5552207
+Read 47370 spots for SRR5552208
+Written 47370 spots for SRR5552208
+Read 15 spots for SRR5552209
+Written 15 spots for SRR5552209
+Read 6098 spots for SRR5552212
+Written 6098 spots for SRR5552212
+Read 42 spots for SRR5552215
+Written 42 spots for SRR5552215
+Read 55 spots for SRR5552216
+Written 55 spots for SRR5552216
+Read 62948 spots for SRR5552217
+Written 62948 spots for SRR5552217
+Read 27 spots for SRR5552218
+Written 27 spots for SRR5552218
+Read 83 spots for SRR5552219
+Written 83 spots for SRR5552219
+Read 130 spots for SRR5552220
+Written 130 spots for SRR5552220
+Read 195 spots for SRR5552221
+Written 195 spots for SRR5552221
+Read 52171 spots for SRR5552225
+Written 52171 spots for SRR5552225
+Read 131 spots for SRR5552228
+Written 131 spots for SRR5552228
+Read 55 spots for SRR5552237
+Written 55 spots for SRR5552237
+Read 79 spots for SRR5552241
+Written 79 spots for SRR5552241
+Read 145 spots for SRR5552242
+Written 145 spots for SRR5552242
+Read 37 spots for SRR5552244
+Written 37 spots for SRR5552244
+Read 49 spots for SRR5552245
+Written 49 spots for SRR5552245
+Read 7 spots for SRR5552246
+Written 7 spots for SRR5552246
+Read 44 spots for SRR5552247
+Written 44 spots for SRR5552247
+Read 17 spots for SRR5552249
+Written 17 spots for SRR5552249
+Read 144 spots for SRR5552250
+Written 144 spots for SRR5552250
+Read 1501 spots for SRR5552251
+Written 1501 spots for SRR5552251
+Read 17 spots for SRR5552252
+Written 17 spots for SRR5552252
+Read 89 spots for SRR5552262
+Written 89 spots for SRR5552262
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Wainwright_2017/SraRunTable.csv"
+Read 44822 spots for SRR5057632
+Written 44822 spots for SRR5057632
+Read 12759 spots for SRR5057633
+Written 12759 spots for SRR5057633
+Read 97 spots for SRR5057634
+Written 97 spots for SRR5057634
+Read 31310 spots for SRR5057635
+Written 31310 spots for SRR5057635
+Read 45624 spots for SRR5057636
+Written 45624 spots for SRR5057636
+Read 30776 spots for SRR5057637
+Written 30776 spots for SRR5057637
+Read 33614 spots for SRR5057638
+Written 33614 spots for SRR5057638
+Read 28783 spots for SRR5057639
+Written 28783 spots for SRR5057639
+Read 50407 spots for SRR5057640
+Written 50407 spots for SRR5057640
+Read 13901 spots for SRR5057641
+Written 13901 spots for SRR5057641
+Read 50653 spots for SRR5057642
+Written 50653 spots for SRR5057642
+Read 18588 spots for SRR5057643
+Written 18588 spots for SRR5057643
+Read 39477 spots for SRR5057644
+Written 39477 spots for SRR5057644
+Read 33602 spots for SRR5057645
+Written 33602 spots for SRR5057645
+Read 59514 spots for SRR5057646
+Written 59514 spots for SRR5057646
+Read 40541 spots for SRR5057647
+Written 40541 spots for SRR5057647
+Read 59724 spots for SRR5057648
+Written 59724 spots for SRR5057648
+Read 51959 spots for SRR5057649
+Written 51959 spots for SRR5057649
+Read 53355 spots for SRR5057650
+Written 53355 spots for SRR5057650
+Read 61767 spots for SRR5057651
+Written 61767 spots for SRR5057651
+Read 52882 spots for SRR5057652
+Written 52882 spots for SRR5057652
+Read 43196 spots for SRR5057653
+Written 43196 spots for SRR5057653
+Read 15039 spots for SRR5057654
+Written 15039 spots for SRR5057654
+Read 53137 spots for SRR5057655
+Written 53137 spots for SRR5057655
+Read 54096 spots for SRR5057656
+Written 54096 spots for SRR5057656
+Read 27916 spots for SRR5057657
+Written 27916 spots for SRR5057657
+Read 56969 spots for SRR5057658
+Written 56969 spots for SRR5057658
+Read 43316 spots for SRR5057659
+Written 43316 spots for SRR5057659
+Read 28128 spots for SRR5057660
+Written 28128 spots for SRR5057660
+Read 57612 spots for SRR5057661
+Written 57612 spots for SRR5057661
+Read 51433 spots for SRR5057662
+Written 51433 spots for SRR5057662
+Read 56318 spots for SRR5057663
+Written 56318 spots for SRR5057663
+Read 36394 spots for SRR5057664
+Written 36394 spots for SRR5057664
+Read 50527 spots for SRR5057665
+Written 50527 spots for SRR5057665
+Read 26074 spots for SRR5057666
+Written 26074 spots for SRR5057666
+Read 30822 spots for SRR5057667
+Written 30822 spots for SRR5057667
+Read 44692 spots for SRR5057668
+Written 44692 spots for SRR5057668
+Read 10200 spots for SRR5057669
+Written 10200 spots for SRR5057669
+Read 44222 spots for SRR5057670
+Written 44222 spots for SRR5057670
+Read 27324 spots for SRR5057671
+Written 27324 spots for SRR5057671
+Read 41608 spots for SRR5057672
+Written 41608 spots for SRR5057672
+Read 54692 spots for SRR5057674
+Written 54692 spots for SRR5057674
+Read 42464 spots for SRR5057675
+Written 42464 spots for SRR5057675
+Read 53530 spots for SRR5057676
+Written 53530 spots for SRR5057676
+Read 40191 spots for SRR5057677
+Written 40191 spots for SRR5057677
+Read 29989 spots for SRR5057678
+Written 29989 spots for SRR5057678
+Read 43132 spots for SRR5057679
+Written 43132 spots for SRR5057679
+Read 34694 spots for SRR5057680
+Written 34694 spots for SRR5057680
+Read 48923 spots for SRR5057681
+Written 48923 spots for SRR5057681
+Read 54251 spots for SRR5057682
+Written 54251 spots for SRR5057682
+Read 64653 spots for SRR5057683
+Written 64653 spots for SRR5057683
+Read 27594 spots for SRR5057684
+Written 27594 spots for SRR5057684
+Read 41080 spots for SRR5057685
+Written 41080 spots for SRR5057685
+Read 33458 spots for SRR5057686
+Written 33458 spots for SRR5057686
+Read 43736 spots for SRR5057687
+Written 43736 spots for SRR5057687
+Read 58617 spots for SRR5057688
+Written 58617 spots for SRR5057688
+Read 36921 spots for SRR5057689
+Written 36921 spots for SRR5057689
+Read 47836 spots for SRR5057690
+Written 47836 spots for SRR5057690
+Read 74 spots for SRR5057691
+Written 74 spots for SRR5057691
+Read 47198 spots for SRR5057692
+Written 47198 spots for SRR5057692
+Read 43853 spots for SRR5057693
+Written 43853 spots for SRR5057693
+Read 56950 spots for SRR5057694
+Written 56950 spots for SRR5057694
+Read 44387 spots for SRR5057695
+Written 44387 spots for SRR5057695
+Read 62927 spots for SRR5057696
+Written 62927 spots for SRR5057696
+Read 12577 spots for SRR5057697
+Written 12577 spots for SRR5057697
+Read 35610 spots for SRR5057698
+Written 35610 spots for SRR5057698
+Read 42736 spots for SRR5057699
+Written 42736 spots for SRR5057699
+Read 18010 spots for SRR5057700
+Written 18010 spots for SRR5057700
+Read 54535 spots for SRR5057701
+Written 54535 spots for SRR5057701
+Read 57009 spots for SRR5057702
+Written 57009 spots for SRR5057702
+Read 51060 spots for SRR5057703
+Written 51060 spots for SRR5057703
+Read 38707 spots for SRR5057704
+Written 38707 spots for SRR5057704
+Read 38411 spots for SRR5057706
+Written 38411 spots for SRR5057706
+Read 66808 spots for SRR5057707
+Written 66808 spots for SRR5057707
+Read 64120 spots for SRR5057708
+Written 64120 spots for SRR5057708
+Read 41554 spots for SRR5057709
+Written 41554 spots for SRR5057709
+Read 56085 spots for SRR5057710
+Written 56085 spots for SRR5057710
+Read 23683 spots for SRR5057711
+Written 23683 spots for SRR5057711
+Read 42338 spots for SRR5057712
+Written 42338 spots for SRR5057712
+Read 43267 spots for SRR5057713
+Written 43267 spots for SRR5057713
+Read 61916 spots for SRR5057714
+Written 61916 spots for SRR5057714
+Read 57042 spots for SRR5057715
+Written 57042 spots for SRR5057715
+Read 41537 spots for SRR5057716
+Written 41537 spots for SRR5057716
+Read 41239 spots for SRR5057717
+Written 41239 spots for SRR5057717
+Read 77351 spots for SRR5057718
+Written 77351 spots for SRR5057718
+Read 30435 spots for SRR5057719
+Written 30435 spots for SRR5057719
+Read 48526 spots for SRR5057720
+Written 48526 spots for SRR5057720
+Read 24739 spots for SRR5057721
+Written 24739 spots for SRR5057721
+Read 24895 spots for SRR5057722
+Written 24895 spots for SRR5057722
+Read 46208 spots for SRR5057723
+Written 46208 spots for SRR5057723
+Read 27025 spots for SRR5057724
+Written 27025 spots for SRR5057724
+Read 52937 spots for SRR5057725
+Written 52937 spots for SRR5057725
+Read 117 spots for SRR5057726
+Written 117 spots for SRR5057726
+Read 45219 spots for SRR5057727
+Written 45219 spots for SRR5057727
+Read 14053 spots for SRR5057728
+Written 14053 spots for SRR5057728
+Read 7826 spots for SRR5057729
+Written 7826 spots for SRR5057729
+Read 8968 spots for SRR5057730
+Written 8968 spots for SRR5057730
+Read 14878 spots for SRR5057731
+Written 14878 spots for SRR5057731
+Read 15402 spots for SRR5057733
+Written 15402 spots for SRR5057733
+Read 15602 spots for SRR5057734
+Written 15602 spots for SRR5057734
+Read 11956 spots for SRR5057735
+Written 11956 spots for SRR5057735
+Read 14682 spots for SRR5057736
+Written 14682 spots for SRR5057736
+Read 6161 spots for SRR5057737
+Written 6161 spots for SRR5057737
+Read 7905 spots for SRR5057738
+Written 7905 spots for SRR5057738
+Read 10000 spots for SRR5057739
+Written 10000 spots for SRR5057739
+Read 16908 spots for SRR5057740
+Written 16908 spots for SRR5057740
+Read 18961 spots for SRR5057741
+Written 18961 spots for SRR5057741
+Read 5968 spots for SRR5057742
+Written 5968 spots for SRR5057742
+Read 12253 spots for SRR5057743
+Written 12253 spots for SRR5057743
+Read 6799 spots for SRR5057744
+Written 6799 spots for SRR5057744
+Read 12189 spots for SRR5057745
+Written 12189 spots for SRR5057745
+Read 9115 spots for SRR5057746
+Written 9115 spots for SRR5057746
+Read 14561 spots for SRR5057747
+Written 14561 spots for SRR5057747
+Read 13699 spots for SRR5057748
+Written 13699 spots for SRR5057748
+Read 10068 spots for SRR5057749
+Written 10068 spots for SRR5057749
+Read 17773 spots for SRR5057750
+Written 17773 spots for SRR5057750
+Read 13701 spots for SRR5057732
+Written 13701 spots for SRR5057732
+Read 52257 spots for SRR5057673
+Written 52257 spots for SRR5057673
+Read 62 spots for SRR5057705
+Written 62 spots for SRR5057705
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Wainwright_2018/SraRunTable-3.csv"
+Read 52749 spots for SRR8174619
+Written 52749 spots for SRR8174619
+Read 42894 spots for SRR8174621
+Written 42894 spots for SRR8174621
+Read 47902 spots for SRR8174624
+Written 47902 spots for SRR8174624
+Read 60145 spots for SRR8174628
+Written 60145 spots for SRR8174628
+Read 43921 spots for SRR8174630
+Written 43921 spots for SRR8174630
+Read 11147 spots for SRR8174631
+Written 11147 spots for SRR8174631
+Read 84618 spots for SRR8174634
+Written 84618 spots for SRR8174634
+Read 42033 spots for SRR8174635
+Written 42033 spots for SRR8174635
+Read 66480 spots for SRR8174636
+Written 66480 spots for SRR8174636
+Read 50347 spots for SRR8174638
+Written 50347 spots for SRR8174638
+Read 70402 spots for SRR8174639
+Written 70402 spots for SRR8174639
+Read 13359 spots for SRR8174640
+Written 13359 spots for SRR8174640
+Read 43693 spots for SRR8174642
+Written 43693 spots for SRR8174642
+Read 49435 spots for SRR8174645
+Written 49435 spots for SRR8174645
+Read 80362 spots for SRR8174649
+Written 80362 spots for SRR8174649
+Read 49928 spots for SRR8174652
+Written 49928 spots for SRR8174652
+Read 73121 spots for SRR8174653
+Written 73121 spots for SRR8174653
+Read 25010 spots for SRR8174654
+Written 25010 spots for SRR8174654
+Read 93524 spots for SRR8174657
+Written 93524 spots for SRR8174657
+Read 46546 spots for SRR8174660
+Written 46546 spots for SRR8174660
+Read 63199 spots for SRR8174664
+Written 63199 spots for SRR8174664
+Read 49774 spots for SRR8174665
+Written 49774 spots for SRR8174665
+Read 33471 spots for SRR8174667
+Written 33471 spots for SRR8174667
+Read 45079 spots for SRR8174668
+Written 45079 spots for SRR8174668
+Read 48523 spots for SRR8174671
+Written 48523 spots for SRR8174671
+Read 21164 spots for SRR8174672
+Written 21164 spots for SRR8174672
+Read 76107 spots for SRR8174675
+Written 76107 spots for SRR8174675
+Read 20257 spots for SRR8174677
+Written 20257 spots for SRR8174677
+Read 2292 spots for SRR8174680
+Written 2292 spots for SRR8174680
+Read 17741 spots for SRR8174681
+Written 17741 spots for SRR8174681
+Read 27949 spots for SRR8174683
+Written 27949 spots for SRR8174683
+Read 72412 spots for SRR8174684
+Written 72412 spots for SRR8174684
+Read 38350 spots for SRR8174686
+Written 38350 spots for SRR8174686
+Read 23605 spots for SRR8174699
+Written 23605 spots for SRR8174699
+Read 75748 spots for SRR8174701
+Written 75748 spots for SRR8174701
+Read 102032 spots for SRR8174704
+Written 102032 spots for SRR8174704
+Read 87632 spots for SRR8174707
+Written 87632 spots for SRR8174707
+Read 46 spots for SRR8174708
+Written 46 spots for SRR8174708
+Read 3589 spots for SRR8174711
+Written 3589 spots for SRR8174711
+Read 33878 spots for SRR8174712
+Written 33878 spots for SRR8174712
+Read 63594 spots for SRR8174715
+Written 63594 spots for SRR8174715
+Read 17232 spots for SRR8174718
+Written 17232 spots for SRR8174718
+Read 20981 spots for SRR8174719
+Written 20981 spots for SRR8174719
+Read 57057 spots for SRR8174720
+Written 57057 spots for SRR8174720
+Read 31852 spots for SRR8174721
+Written 31852 spots for SRR8174721
+Read 40720 spots for SRR8174724
+Written 40720 spots for SRR8174724
+Read 32350 spots for SRR8174728
+Written 32350 spots for SRR8174728
+Read 26493 spots for SRR8174731
+Written 26493 spots for SRR8174731
+Read 58614 spots for SRR8174734
+Written 58614 spots for SRR8174734
+Read 61518 spots for SRR8174744
+Written 61518 spots for SRR8174744
+Read 1001 spots for SRR8174745
+Written 1001 spots for SRR8174745
+Read 56919 spots for SRR8174746
+Written 56919 spots for SRR8174746
+Read 46131 spots for SRR8174748
+Written 46131 spots for SRR8174748
+Read 41902 spots for SRR8174749
+Written 41902 spots for SRR8174749
+Read 7126 spots for SRR8174751
+Written 7126 spots for SRR8174751
+Read 8767 spots for SRR8174753
+Written 8767 spots for SRR8174753
+Read 118930 spots for SRR8174755
+Written 118930 spots for SRR8174755
+Read 65443 spots for SRR8174756
+Written 65443 spots for SRR8174756
+Read 25553 spots for SRR8174758
+Written 25553 spots for SRR8174758
+Read 79582 spots for SRR8174760
+Written 79582 spots for SRR8174760
+Read 49060 spots for SRR8174762
+Written 49060 spots for SRR8174762
+Read 48473 spots for SRR8174763
+Written 48473 spots for SRR8174763
+Read 50238 spots for SRR8174767
+Written 50238 spots for SRR8174767
+Read 88422 spots for SRR8174769
+Written 88422 spots for SRR8174769
+Read 93496 spots for SRR8174770
+Written 93496 spots for SRR8174770
+Read 62583 spots for SRR8174773
+Written 62583 spots for SRR8174773
+Read 61574 spots for SRR8174775
+Written 61574 spots for SRR8174775
+Read 40446 spots for SRR8174778
+Written 40446 spots for SRR8174778
+Read 50494 spots for SRR8174780
+Written 50494 spots for SRR8174780
+Read 33387 spots for SRR8174782
+Written 33387 spots for SRR8174782
+Read 583 spots for SRR8174784
+Written 583 spots for SRR8174784
+Read 21484 spots for SRR8174787
+Written 21484 spots for SRR8174787
+Read 31862 spots for SRR8174789
+Written 31862 spots for SRR8174789
+Read 50469 spots for SRR8174790
+Written 50469 spots for SRR8174790
+Read 67310 spots for SRR8174791
+Written 67310 spots for SRR8174791
+Read 51330 spots for SRR8174792
+Written 51330 spots for SRR8174792
+Read 49179 spots for SRR8174794
+Written 49179 spots for SRR8174794
+Read 72051 spots for SRR8174795
+Written 72051 spots for SRR8174795
+Read 42155 spots for SRR8174797
+Written 42155 spots for SRR8174797
+Read 57891 spots for SRR8174798
+Written 57891 spots for SRR8174798
+Read 13853 spots for SRR8174801
+Written 13853 spots for SRR8174801
+Read 42558 spots for SRR8174802
+Written 42558 spots for SRR8174802
+Read 60165 spots for SRR8174804
+Written 60165 spots for SRR8174804
+Read 71471 spots for SRR8174805
+Written 71471 spots for SRR8174805
+Read 312 spots for SRR8174807
+Written 312 spots for SRR8174807
+Read 75609 spots for SRR8174810
+Written 75609 spots for SRR8174810
+Read 78623 spots for SRR8174811
+Written 78623 spots for SRR8174811
+Read 28771 spots for SRR8174814
+Written 28771 spots for SRR8174814
+Read 45691 spots for SRR8174816
+Written 45691 spots for SRR8174816
+Read 592 spots for SRR8174817
+Written 592 spots for SRR8174817
+Read 39889 spots for SRR8174620
+Written 39889 spots for SRR8174620
+Read 43611 spots for SRR8174623
+Written 43611 spots for SRR8174623
+Read 68998 spots for SRR8174625
+Written 68998 spots for SRR8174625
+Read 36619 spots for SRR8174626
+Written 36619 spots for SRR8174626
+Read 12144 spots for SRR8174627
+Written 12144 spots for SRR8174627
+Read 42922 spots for SRR8174629
+Written 42922 spots for SRR8174629
+Read 25478 spots for SRR8174632
+Written 25478 spots for SRR8174632
+Read 32544 spots for SRR8174633
+Written 32544 spots for SRR8174633
+Read 99850 spots for SRR8174637
+Written 99850 spots for SRR8174637
+Read 46104 spots for SRR8174641
+Written 46104 spots for SRR8174641
+Read 82365 spots for SRR8174643
+Written 82365 spots for SRR8174643
+Read 29836 spots for SRR8174644
+Written 29836 spots for SRR8174644
+Read 25654 spots for SRR8174646
+Written 25654 spots for SRR8174646
+Read 854 spots for SRR8174647
+Written 854 spots for SRR8174647
+Read 66144 spots for SRR8174648
+Written 66144 spots for SRR8174648
+Read 20060 spots for SRR8174650
+Written 20060 spots for SRR8174650
+Read 51299 spots for SRR8174651
+Written 51299 spots for SRR8174651
+Read 51869 spots for SRR8174655
+Written 51869 spots for SRR8174655
+Read 24139 spots for SRR8174656
+Written 24139 spots for SRR8174656
+Read 59231 spots for SRR8174659
+Written 59231 spots for SRR8174659
+Read 73780 spots for SRR8174661
+Written 73780 spots for SRR8174661
+Read 2276 spots for SRR8174662
+Written 2276 spots for SRR8174662
+Read 22310 spots for SRR8174663
+Written 22310 spots for SRR8174663
+Read 38302 spots for SRR8174666
+Written 38302 spots for SRR8174666
+Read 19240 spots for SRR8174669
+Written 19240 spots for SRR8174669
+Read 9531 spots for SRR8174670
+Written 9531 spots for SRR8174670
+Read 105 spots for SRR8174673
+Written 105 spots for SRR8174673
+Read 68960 spots for SRR8174674
+Written 68960 spots for SRR8174674
+Read 101774 spots for SRR8174676
+Written 101774 spots for SRR8174676
+Read 3397 spots for SRR8174678
+Written 3397 spots for SRR8174678
+Read 24493 spots for SRR8174679
+Written 24493 spots for SRR8174679
+Read 38594 spots for SRR8174682
+Written 38594 spots for SRR8174682
+Read 58690 spots for SRR8174685
+Written 58690 spots for SRR8174685
+Read 12865 spots for SRR8174687
+Written 12865 spots for SRR8174687
+Read 76427 spots for SRR8174688
+Written 76427 spots for SRR8174688
+Read 759 spots for SRR8174689
+Written 759 spots for SRR8174689
+Read 27349 spots for SRR8174690
+Written 27349 spots for SRR8174690
+Read 90351 spots for SRR8174691
+Written 90351 spots for SRR8174691
+Read 52874 spots for SRR8174692
+Written 52874 spots for SRR8174692
+Read 62533 spots for SRR8174693
+Written 62533 spots for SRR8174693
+Read 115611 spots for SRR8174694
+Written 115611 spots for SRR8174694
+Read 55252 spots for SRR8174695
+Written 55252 spots for SRR8174695
+Read 59293 spots for SRR8174696
+Written 59293 spots for SRR8174696
+Read 115582 spots for SRR8174697
+Written 115582 spots for SRR8174697
+Read 52254 spots for SRR8174700
+Written 52254 spots for SRR8174700
+Read 77809 spots for SRR8174702
+Written 77809 spots for SRR8174702
+Read 31970 spots for SRR8174703
+Written 31970 spots for SRR8174703
+Read 6 spots for SRR8174705
+Written 6 spots for SRR8174705
+Read 32199 spots for SRR8174706
+Written 32199 spots for SRR8174706
+Read 9 spots for SRR8174709
+Written 9 spots for SRR8174709
+Read 11110 spots for SRR8174710
+Written 11110 spots for SRR8174710
+Read 74545 spots for SRR8174713
+Written 74545 spots for SRR8174713
+Read 59002 spots for SRR8174714
+Written 59002 spots for SRR8174714
+Read 37679 spots for SRR8174716
+Written 37679 spots for SRR8174716
+Read 45569 spots for SRR8174717
+Written 45569 spots for SRR8174717
+Read 65355 spots for SRR8174722
+Written 65355 spots for SRR8174722
+Read 143722 spots for SRR8174723
+Written 143722 spots for SRR8174723
+Read 32910 spots for SRR8174725
+Written 32910 spots for SRR8174725
+Read 22350 spots for SRR8174726
+Written 22350 spots for SRR8174726
+Read 39596 spots for SRR8174727
+Written 39596 spots for SRR8174727
+Read 15700 spots for SRR8174729
+Written 15700 spots for SRR8174729
+Read 401 spots for SRR8174730
+Written 401 spots for SRR8174730
+Read 61058 spots for SRR8174732
+Written 61058 spots for SRR8174732
+Read 11848 spots for SRR8174733
+Written 11848 spots for SRR8174733
+Read 8596 spots for SRR8174737
+Written 8596 spots for SRR8174737
+Read 3212 spots for SRR8174738
+Written 3212 spots for SRR8174738
+Read 60757 spots for SRR8174740
+Written 60757 spots for SRR8174740
+Read 560 spots for SRR8174741
+Written 560 spots for SRR8174741
+Read 53725 spots for SRR8174743
+Written 53725 spots for SRR8174743
+Read 2772 spots for SRR8174747
+Written 2772 spots for SRR8174747
+Read 3669 spots for SRR8174750
+Written 3669 spots for SRR8174750
+Read 18352 spots for SRR8174752
+Written 18352 spots for SRR8174752
+Read 543 spots for SRR8174757
+Written 543 spots for SRR8174757
+Read 2758 spots for SRR8174761
+Written 2758 spots for SRR8174761
+Read 20335 spots for SRR8174764
+Written 20335 spots for SRR8174764
+Read 6234 spots for SRR8174765
+Written 6234 spots for SRR8174765
+Read 1 spots for SRR8174766
+Written 1 spots for SRR8174766
+Read 50239 spots for SRR8174768
+Written 50239 spots for SRR8174768
+Read 66498 spots for SRR8174771
+Written 66498 spots for SRR8174771
+Read 66981 spots for SRR8174774
+Written 66981 spots for SRR8174774
+Read 62949 spots for SRR8174776
+Written 62949 spots for SRR8174776
+Read 48555 spots for SRR8174777
+Written 48555 spots for SRR8174777
+Read 50105 spots for SRR8174779
+Written 50105 spots for SRR8174779
+Read 6299 spots for SRR8174781
+Written 6299 spots for SRR8174781
+Read 37162 spots for SRR8174783
+Written 37162 spots for SRR8174783
+Read 37398 spots for SRR8174785
+Written 37398 spots for SRR8174785
+Read 31412 spots for SRR8174786
+Written 31412 spots for SRR8174786
+Read 82466 spots for SRR8174788
+Written 82466 spots for SRR8174788
+Read 42964 spots for SRR8174796
+Written 42964 spots for SRR8174796
+Read 67929 spots for SRR8174800
+Written 67929 spots for SRR8174800
+Read 37706 spots for SRR8174803
+Written 37706 spots for SRR8174803
+Read 79785 spots for SRR8174806
+Written 79785 spots for SRR8174806
+Read 25148 spots for SRR8174808
+Written 25148 spots for SRR8174808
+Read 46908 spots for SRR8174809
+Written 46908 spots for SRR8174809
+Read 81992 spots for SRR8174812
+Written 81992 spots for SRR8174812
+Read 70766 spots for SRR8174813
+Written 70766 spots for SRR8174813
+Read 44045 spots for SRR8174815
+Written 44045 spots for SRR8174815
+Read 51802 spots for SRR8174793
+Written 51802 spots for SRR8174793
+Read 15227 spots for SRR8174754
+Written 15227 spots for SRR8174754
+Read 5264 spots for SRR8174736
+Written 5264 spots for SRR8174736
+Read 23760 spots for SRR8174759
+Written 23760 spots for SRR8174759
+Read 5266 spots for SRR8174658
+Written 5266 spots for SRR8174658
+Read 24922 spots for SRR8174622
+Written 24922 spots for SRR8174622
+Read 34125 spots for SRR8174772
+Written 34125 spots for SRR8174772
+Read 35053 spots for SRR8174742
+Written 35053 spots for SRR8174742
+Read 56662 spots for SRR8174698
+Written 56662 spots for SRR8174698
+Read 29134 spots for SRR8174799
+Written 29134 spots for SRR8174799
+Read 70621 spots for SRR8174735
+Written 70621 spots for SRR8174735
+Read 13912 spots for SRR8174739
+Written 13912 spots for SRR8174739
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Wainwright_2019/SraRunTable.txt"
+Read 52176 spots for SRR8504044
+Written 52176 spots for SRR8504044
+Read 77332 spots for SRR8504045
+Written 77332 spots for SRR8504045
+Read 54771 spots for SRR8504046
+Written 54771 spots for SRR8504046
+Read 40383 spots for SRR8504047
+Written 40383 spots for SRR8504047
+Read 54786 spots for SRR8504048
+Written 54786 spots for SRR8504048
+Read 25777 spots for SRR8504049
+Written 25777 spots for SRR8504049
+Read 20167 spots for SRR8504050
+Written 20167 spots for SRR8504050
+Read 56533 spots for SRR8504051
+Written 56533 spots for SRR8504051
+Read 38080 spots for SRR8504052
+Written 38080 spots for SRR8504052
+Read 16555 spots for SRR8504053
+Written 16555 spots for SRR8504053
+Read 12443 spots for SRR8504054
+Written 12443 spots for SRR8504054
+Read 38581 spots for SRR8504055
+Written 38581 spots for SRR8504055
+Read 19782 spots for SRR8504056
+Written 19782 spots for SRR8504056
+Read 16435 spots for SRR8504057
+Written 16435 spots for SRR8504057
+Read 43431 spots for SRR8504058
+Written 43431 spots for SRR8504058
+Read 15906 spots for SRR8504059
+Written 15906 spots for SRR8504059
+Read 26785 spots for SRR8504060
+Written 26785 spots for SRR8504060
+Read 66512 spots for SRR8504061
+Written 66512 spots for SRR8504061
+Read 2446 spots for SRR8504062
+Written 2446 spots for SRR8504062
+Read 55744 spots for SRR8504063
+Written 55744 spots for SRR8504063
+Read 54050 spots for SRR8504064
+Written 54050 spots for SRR8504064
+Read 71564 spots for SRR8504065
+Written 71564 spots for SRR8504065
+Read 28488 spots for SRR8504066
+Written 28488 spots for SRR8504066
+Read 21265 spots for SRR8504067
+Written 21265 spots for SRR8504067
+Read 40480 spots for SRR8504068
+Written 40480 spots for SRR8504068
+Read 55244 spots for SRR8504070
+Written 55244 spots for SRR8504070
+Read 4591 spots for SRR8504071
+Written 4591 spots for SRR8504071
+Read 15354 spots for SRR8504072
+Written 15354 spots for SRR8504072
+Read 5796 spots for SRR8504073
+Written 5796 spots for SRR8504073
+Read 6190 spots for SRR8504074
+Written 6190 spots for SRR8504074
+Read 9746 spots for SRR8504075
+Written 9746 spots for SRR8504075
+Read 8098 spots for SRR8504076
+Written 8098 spots for SRR8504076
+Read 3966 spots for SRR8504077
+Written 3966 spots for SRR8504077
+Read 13120 spots for SRR8504079
+Written 13120 spots for SRR8504079
+Read 35579 spots for SRR8504081
+Written 35579 spots for SRR8504081
+Read 44222 spots for SRR8504082
+Written 44222 spots for SRR8504082
+Read 79841 spots for SRR8504083
+Written 79841 spots for SRR8504083
+Read 55092 spots for SRR8504084
+Written 55092 spots for SRR8504084
+Read 66349 spots for SRR8504085
+Written 66349 spots for SRR8504085
+Read 82990 spots for SRR8504086
+Written 82990 spots for SRR8504086
+Read 69852 spots for SRR8504087
+Written 69852 spots for SRR8504087
+Read 39043 spots for SRR8504088
+Written 39043 spots for SRR8504088
+Read 55881 spots for SRR8504089
+Written 55881 spots for SRR8504089
+Read 52887 spots for SRR8504090
+Written 52887 spots for SRR8504090
+Read 35526 spots for SRR8504092
+Written 35526 spots for SRR8504092
+Read 27755 spots for SRR8504093
+Written 27755 spots for SRR8504093
+Read 29549 spots for SRR8504094
+Written 29549 spots for SRR8504094
+Read 34656 spots for SRR8504095
+Written 34656 spots for SRR8504095
+Read 12247 spots for SRR8504096
+Written 12247 spots for SRR8504096
+Read 22621 spots for SRR8504097
+Written 22621 spots for SRR8504097
+Read 18369 spots for SRR8504098
+Written 18369 spots for SRR8504098
+Read 41024 spots for SRR8504099
+Written 41024 spots for SRR8504099
+Read 29248 spots for SRR8504100
+Written 29248 spots for SRR8504100
+Read 77207 spots for SRR8504101
+Written 77207 spots for SRR8504101
+Read 89620 spots for SRR8504102
+Written 89620 spots for SRR8504102
+Read 33180 spots for SRR8504103
+Written 33180 spots for SRR8504103
+Read 58901 spots for SRR8504104
+Written 58901 spots for SRR8504104
+Read 39111 spots for SRR8504105
+Written 39111 spots for SRR8504105
+Read 52611 spots for SRR8504106
+Written 52611 spots for SRR8504106
+Read 87361 spots for SRR8504107
+Written 87361 spots for SRR8504107
+Read 53808 spots for SRR8504108
+Written 53808 spots for SRR8504108
+Read 46963 spots for SRR8504110
+Written 46963 spots for SRR8504110
+Read 3582 spots for SRR8504111
+Written 3582 spots for SRR8504111
+Read 50431 spots for SRR8504112
+Written 50431 spots for SRR8504112
+Read 6118 spots for SRR8504114
+Written 6118 spots for SRR8504114
+Read 43431 spots for SRR8504116
+Written 43431 spots for SRR8504116
+Read 41165 spots for SRR8504117
+Written 41165 spots for SRR8504117
+Read 50376 spots for SRR8504118
+Written 50376 spots for SRR8504118
+Read 6914 spots for SRR8504119
+Written 6914 spots for SRR8504119
+Read 8252 spots for SRR8504120
+Written 8252 spots for SRR8504120
+Read 54631 spots for SRR8504121
+Written 54631 spots for SRR8504121
+Read 32940 spots for SRR8504122
+Written 32940 spots for SRR8504122
+Read 16011 spots for SRR8504123
+Written 16011 spots for SRR8504123
+Read 72865 spots for SRR8504124
+Written 72865 spots for SRR8504124
+Read 11479 spots for SRR8504125
+Written 11479 spots for SRR8504125
+Read 16071 spots for SRR8504126
+Written 16071 spots for SRR8504126
+Read 22048 spots for SRR8504127
+Written 22048 spots for SRR8504127
+Read 13658 spots for SRR8504128
+Written 13658 spots for SRR8504128
+Read 30185 spots for SRR8504129
+Written 30185 spots for SRR8504129
+Read 18136 spots for SRR8504130
+Written 18136 spots for SRR8504130
+Read 43862 spots for SRR8504131
+Written 43862 spots for SRR8504131
+Read 65848 spots for SRR8504132
+Written 65848 spots for SRR8504132
+Read 33957 spots for SRR8504133
+Written 33957 spots for SRR8504133
+Read 61356 spots for SRR8504134
+Written 61356 spots for SRR8504134
+Read 60119 spots for SRR8504135
+Written 60119 spots for SRR8504135
+Read 15778 spots for SRR8504136
+Written 15778 spots for SRR8504136
+Read 52468 spots for SRR8504137
+Written 52468 spots for SRR8504137
+Read 62355 spots for SRR8504138
+Written 62355 spots for SRR8504138
+Read 2159 spots for SRR8504139
+Written 2159 spots for SRR8504139
+Read 63164 spots for SRR8504141
+Written 63164 spots for SRR8504141
+Read 72932 spots for SRR8504142
+Written 72932 spots for SRR8504142
+Read 12479 spots for SRR8504143
+Written 12479 spots for SRR8504143
+Read 20928 spots for SRR8504144
+Written 20928 spots for SRR8504144
+Read 36223 spots for SRR8504145
+Written 36223 spots for SRR8504145
+Read 48269 spots for SRR8504146
+Written 48269 spots for SRR8504146
+Read 44279 spots for SRR8504147
+Written 44279 spots for SRR8504147
+Read 29832 spots for SRR8504148
+Written 29832 spots for SRR8504148
+Read 53014 spots for SRR8504149
+Written 53014 spots for SRR8504149
+Read 53610 spots for SRR8504150
+Written 53610 spots for SRR8504150
+Read 25125 spots for SRR8504151
+Written 25125 spots for SRR8504151
+Read 14924 spots for SRR8504152
+Written 14924 spots for SRR8504152
+Read 31831 spots for SRR8504153
+Written 31831 spots for SRR8504153
+Read 8908 spots for SRR8504154
+Written 8908 spots for SRR8504154
+Read 38555 spots for SRR8504155
+Written 38555 spots for SRR8504155
+Read 15266 spots for SRR8504156
+Written 15266 spots for SRR8504156
+Read 18782 spots for SRR8504157
+Written 18782 spots for SRR8504157
+Read 23394 spots for SRR8504158
+Written 23394 spots for SRR8504158
+Read 5180 spots for SRR8504159
+Written 5180 spots for SRR8504159
+Read 10420 spots for SRR8504160
+Written 10420 spots for SRR8504160
+Read 43712 spots for SRR8504161
+Written 43712 spots for SRR8504161
+Read 109487 spots for SRR8504162
+Written 109487 spots for SRR8504162
+Read 22861 spots for SRR8504163
+Written 22861 spots for SRR8504163
+Read 21727 spots for SRR8504164
+Written 21727 spots for SRR8504164
+Read 13408 spots for SRR8504165
+Written 13408 spots for SRR8504165
+Read 9431 spots for SRR8504166
+Written 9431 spots for SRR8504166
+Read 41913 spots for SRR8504167
+Written 41913 spots for SRR8504167
+Read 26163 spots for SRR8504168
+Written 26163 spots for SRR8504168
+Read 41603 spots for SRR8504169
+Written 41603 spots for SRR8504169
+Read 16421 spots for SRR8504170
+Written 16421 spots for SRR8504170
+Read 8695 spots for SRR8504171
+Written 8695 spots for SRR8504171
+Read 43089 spots for SRR8504172
+Written 43089 spots for SRR8504172
+Read 35250 spots for SRR8504173
+Written 35250 spots for SRR8504173
+Read 26912 spots for SRR8504174
+Written 26912 spots for SRR8504174
+Read 28202 spots for SRR8504175
+Written 28202 spots for SRR8504175
+Read 23797 spots for SRR8504176
+Written 23797 spots for SRR8504176
+Read 77735 spots for SRR8504177
+Written 77735 spots for SRR8504177
+Read 34965 spots for SRR8504178
+Written 34965 spots for SRR8504178
+Read 16541 spots for SRR8504179
+Written 16541 spots for SRR8504179
+Read 38068 spots for SRR8504180
+Written 38068 spots for SRR8504180
+Read 48842 spots for SRR8504181
+Written 48842 spots for SRR8504181
+Read 116120 spots for SRR8504182
+Written 116120 spots for SRR8504182
+Read 79839 spots for SRR8504183
+Written 79839 spots for SRR8504183
+Read 60600 spots for SRR8504184
+Written 60600 spots for SRR8504184
+Read 89228 spots for SRR8504185
+Written 89228 spots for SRR8504185
+Read 49637 spots for SRR8504186
+Written 49637 spots for SRR8504186
+Read 45515 spots for SRR8504187
+Written 45515 spots for SRR8504187
+Read 16623 spots for SRR8504188
+Written 16623 spots for SRR8504188
+Read 36476 spots for SRR8504189
+Written 36476 spots for SRR8504189
+Read 43335 spots for SRR8504190
+Written 43335 spots for SRR8504190
+Read 15472 spots for SRR8504191
+Written 15472 spots for SRR8504191
+Read 29107 spots for SRR8504192
+Written 29107 spots for SRR8504192
+Read 37699 spots for SRR8504193
+Written 37699 spots for SRR8504193
+Read 18017 spots for SRR8504194
+Written 18017 spots for SRR8504194
+Read 20931 spots for SRR8504195
+Written 20931 spots for SRR8504195
+Read 33135 spots for SRR8504196
+Written 33135 spots for SRR8504196
+Read 52617 spots for SRR8504197
+Written 52617 spots for SRR8504197
+Read 22870 spots for SRR8504198
+Written 22870 spots for SRR8504198
+Read 10952 spots for SRR8504199
+Written 10952 spots for SRR8504199
+Read 53673 spots for SRR8504200
+Written 53673 spots for SRR8504200
+Read 55590 spots for SRR8504201
+Written 55590 spots for SRR8504201
+Read 36818 spots for SRR8504202
+Written 36818 spots for SRR8504202
+Read 6786 spots for SRR8504203
+Written 6786 spots for SRR8504203
+Read 120173 spots for SRR8504204
+Written 120173 spots for SRR8504204
+Read 48266 spots for SRR8504205
+Written 48266 spots for SRR8504205
+Read 41392 spots for SRR8504207
+Written 41392 spots for SRR8504207
+Read 7852 spots for SRR8504208
+Written 7852 spots for SRR8504208
+Read 18329 spots for SRR8504209
+Written 18329 spots for SRR8504209
+Read 13437 spots for SRR8504210
+Written 13437 spots for SRR8504210
+Read 25598 spots for SRR8504211
+Written 25598 spots for SRR8504211
+Read 4010 spots for SRR8504212
+Written 4010 spots for SRR8504212
+Read 29785 spots for SRR8504213
+Written 29785 spots for SRR8504213
+Read 25625 spots for SRR8504214
+Written 25625 spots for SRR8504214
+Read 12245 spots for SRR8504215
+Written 12245 spots for SRR8504215
+Read 70590 spots for SRR8504216
+Written 70590 spots for SRR8504216
+Read 45152 spots for SRR8504217
+Written 45152 spots for SRR8504217
+Read 60391 spots for SRR8504220
+Written 60391 spots for SRR8504220
+Read 65036 spots for SRR8504221
+Written 65036 spots for SRR8504221
+Read 35504 spots for SRR8504222
+Written 35504 spots for SRR8504222
+Read 22731 spots for SRR8504223
+Written 22731 spots for SRR8504223
+Read 8816 spots for SRR8504224
+Written 8816 spots for SRR8504224
+Read 16783 spots for SRR8504225
+Written 16783 spots for SRR8504225
+Read 39676 spots for SRR8504226
+Written 39676 spots for SRR8504226
+Read 14718 spots for SRR8504227
+Written 14718 spots for SRR8504227
+Read 22680 spots for SRR8504228
+Written 22680 spots for SRR8504228
+Read 39103 spots for SRR8504229
+Written 39103 spots for SRR8504229
+Read 32614 spots for SRR8504230
+Written 32614 spots for SRR8504230
+Read 12214 spots for SRR8504231
+Written 12214 spots for SRR8504231
+Read 6032 spots for SRR8504232
+Written 6032 spots for SRR8504232
+Read 41032 spots for SRR8504233
+Written 41032 spots for SRR8504233
+Read 4656 spots for SRR8504234
+Written 4656 spots for SRR8504234
+Read 11174 spots for SRR8504235
+Written 11174 spots for SRR8504235
+Read 14783 spots for SRR8504236
+Written 14783 spots for SRR8504236
+Read 17215 spots for SRR8504237
+Written 17215 spots for SRR8504237
+Read 5428 spots for SRR8504238
+Written 5428 spots for SRR8504238
+Read 3466 spots for SRR8504239
+Written 3466 spots for SRR8504239
+Read 75757 spots for SRR8504241
+Written 75757 spots for SRR8504241
+Read 11251 spots for SRR8504242
+Written 11251 spots for SRR8504242
+Read 3435 spots for SRR8504243
+Written 3435 spots for SRR8504243
+Read 13760 spots for SRR8504244
+Written 13760 spots for SRR8504244
+Read 41800 spots for SRR8504245
+Written 41800 spots for SRR8504245
+Read 66147 spots for SRR8504246
+Written 66147 spots for SRR8504246
+Read 57124 spots for SRR8504247
+Written 57124 spots for SRR8504247
+Read 26883 spots for SRR8504248
+Written 26883 spots for SRR8504248
+Read 50701 spots for SRR8504249
+Written 50701 spots for SRR8504249
+Read 66349 spots for SRR8504250
+Written 66349 spots for SRR8504250
+Read 48966 spots for SRR8504251
+Written 48966 spots for SRR8504251
+Read 64809 spots for SRR8504252
+Written 64809 spots for SRR8504252
+Read 34059 spots for SRR8504254
+Written 34059 spots for SRR8504254
+Read 63686 spots for SRR8504255
+Written 63686 spots for SRR8504255
+Read 10913 spots for SRR8504256
+Written 10913 spots for SRR8504256
+Read 64105 spots for SRR8504257
+Written 64105 spots for SRR8504257
+Read 18025 spots for SRR8504258
+Written 18025 spots for SRR8504258
+Read 25418 spots for SRR8504259
+Written 25418 spots for SRR8504259
+Read 25710 spots for SRR8504260
+Written 25710 spots for SRR8504260
+Read 37262 spots for SRR8504261
+Written 37262 spots for SRR8504261
+Read 12244 spots for SRR8504262
+Written 12244 spots for SRR8504262
+Read 53146 spots for SRR8504263
+Written 53146 spots for SRR8504263
+Read 16511 spots for SRR8504264
+Written 16511 spots for SRR8504264
+Read 31615 spots for SRR8504265
+Written 31615 spots for SRR8504265
+Read 10786 spots for SRR8504267
+Written 10786 spots for SRR8504267
+Read 4558 spots for SRR8504268
+Written 4558 spots for SRR8504268
+Read 51566 spots for SRR8504269
+Written 51566 spots for SRR8504269
+Read 38318 spots for SRR8504270
+Written 38318 spots for SRR8504270
+Read 80751 spots for SRR8504271
+Written 80751 spots for SRR8504271
+Read 76984 spots for SRR8504272
+Written 76984 spots for SRR8504272
+Read 71553 spots for SRR8504273
+Written 71553 spots for SRR8504273
+Read 102741 spots for SRR8504274
+Written 102741 spots for SRR8504274
+Read 11232 spots for SRR8504275
+Written 11232 spots for SRR8504275
+Read 49287 spots for SRR8504276
+Written 49287 spots for SRR8504276
+Read 46069 spots for SRR8504277
+Written 46069 spots for SRR8504277
+Read 87943 spots for SRR8504278
+Written 87943 spots for SRR8504278
+Read 8377 spots for SRR8504279
+Written 8377 spots for SRR8504279
+Read 2704 spots for SRR8504280
+Written 2704 spots for SRR8504280
+Read 39808 spots for SRR8504281
+Written 39808 spots for SRR8504281
+Read 28006 spots for SRR8504282
+Written 28006 spots for SRR8504282
+Read 46353 spots for SRR8504283
+Written 46353 spots for SRR8504283
+Read 52290 spots for SRR8504284
+Written 52290 spots for SRR8504284
+Read 10673 spots for SRR8504285
+Written 10673 spots for SRR8504285
+Read 42025 spots for SRR8504286
+Written 42025 spots for SRR8504286
+Read 31807 spots for SRR8504287
+Written 31807 spots for SRR8504287
+Read 58441 spots for SRR8504288
+Written 58441 spots for SRR8504288
+Read 77625 spots for SRR8504289
+Written 77625 spots for SRR8504289
+Read 69698 spots for SRR8504290
+Written 69698 spots for SRR8504290
+Read 3204 spots for SRR8504113
+Written 3204 spots for SRR8504113
+Read 35263 spots for SRR8504115
+Written 35263 spots for SRR8504115
+Read 31864 spots for SRR8504218
+Written 31864 spots for SRR8504218
+Read 46528 spots for SRR8504266
+Written 46528 spots for SRR8504266
+Read 57712 spots for SRR8504240
+Written 57712 spots for SRR8504240
+Read 8252 spots for SRR8504109
+Written 8252 spots for SRR8504109
+Read 74576 spots for SRR8504069
+Written 74576 spots for SRR8504069
+Read 49199 spots for SRR8504253
+Written 49199 spots for SRR8504253
+Read 8745 spots for SRR8504080
+Written 8745 spots for SRR8504080
+Read 51649 spots for SRR8504140
+Written 51649 spots for SRR8504140
+Read 36591 spots for SRR8504091
+Written 36591 spots for SRR8504091
+Read 4125 spots for SRR8504078
+Written 4125 spots for SRR8504078
+Read 47501 spots for SRR8504219
+Written 47501 spots for SRR8504219
+Read 50379 spots for SRR8504206
+Written 50379 spots for SRR8504206
+[1] "Removing Reverse Reads, if any"
+[1] "./data/Zhang_2018/SraRunTable-4.csv"
+Rejected 45761 READS because of filtering out non-biological READS
+Read 45761 spots for SRR5075731
+Written 45761 spots for SRR5075731
+Rejected 46876 READS because of filtering out non-biological READS
+Read 46876 spots for SRR5075732
+Written 46876 spots for SRR5075732
+Rejected 41724 READS because of filtering out non-biological READS
+Read 41724 spots for SRR5075733
+Written 41724 spots for SRR5075733
+Rejected 53097 READS because of filtering out non-biological READS
+Read 53097 spots for SRR5075734
+Written 53097 spots for SRR5075734
+Rejected 58159 READS because of filtering out non-biological READS
+Read 58159 spots for SRR5075735
+Written 58159 spots for SRR5075735
+Rejected 62548 READS because of filtering out non-biological READS
+Read 62548 spots for SRR5075736
+Written 62548 spots for SRR5075736
+Rejected 43952 READS because of filtering out non-biological READS
+Read 43952 spots for SRR5075737
+Written 43952 spots for SRR5075737
+Rejected 40494 READS because of filtering out non-biological READS
+Read 40494 spots for SRR5075738
+Written 40494 spots for SRR5075738
+Rejected 48964 READS because of filtering out non-biological READS
+Read 48964 spots for SRR5075739
+Written 48964 spots for SRR5075739
+Rejected 53445 READS because of filtering out non-biological READS
+Read 53445 spots for SRR5075740
+Written 53445 spots for SRR5075740
+Rejected 50381 READS because of filtering out non-biological READS
+Read 50381 spots for SRR5075741
+Written 50381 spots for SRR5075741
+Rejected 61197 READS because of filtering out non-biological READS
+Read 61197 spots for SRR5075742
+Written 61197 spots for SRR5075742
+Rejected 56028 READS because of filtering out non-biological READS
+Read 56028 spots for SRR5075743
+Written 56028 spots for SRR5075743
+Rejected 45255 READS because of filtering out non-biological READS
+Read 45255 spots for SRR5075744
+Written 45255 spots for SRR5075744
+Rejected 41548 READS because of filtering out non-biological READS
+Read 41548 spots for SRR5075745
+Written 41548 spots for SRR5075745
+Rejected 60390 READS because of filtering out non-biological READS
+Read 60390 spots for SRR5075746
+Written 60390 spots for SRR5075746
+[1] "Removing Reverse Reads, if any"
+Time difference of 3.387732 hours
+[1] "Extracting ITS1 Region"
+[1] "Barge_2019"
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+[1] "Busby_2016"
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+[1] "FernandezConradi_2019"
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+[1] "Ravenscraft_2019"
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+1.0
+[1] "Tipton_2019"
+1.0
+[1] "Wainwright_2017"
+[1] "Wainwright_2018"
+[1] "Wainwright_2019"
+[1] "Zhang_2018"
+Time difference of 36.51528 hours

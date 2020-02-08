@@ -22,9 +22,9 @@ project_directories <- file.path(datapath,list.files(datapath))
 # creates .csv file for each project
 
 # For testing only:
-# i=project_directories[1]
-# j=list.files(file.path(i),pattern = "ps-UNITE",full.names = TRUE)[1]
-
+i=project_directories[6]
+j=list.files(file.path(i),pattern = "ps-UNITE",full.names = TRUE)[1]
+list.files(file.path(i))
 for(i in project_directories){
 
   y=1
@@ -97,27 +97,34 @@ for(i in project_directories){
       # lat/lon (mean latitude and longitude from whole study)
       # N, E are positive ... S, W are negative
     
+    # Make sure to deal with missing values!!!
+    
     latlon_list <- str_split(sample_data(ps)$lat_lon," ")
+    df_latlon = as.data.frame(latlon_list) # testing
+    latlon_list = as.list(df_latlon) # testing
+    
     
     South = purrr::map(latlon_list,2) == "S"
+    
     South[South==TRUE] <- -1
     South[South==FALSE] <- 1
-    lat <- as.numeric(purrr::map(latlon_list,1)) * South
+    lat <- as.numeric(as.character(unlist(purrr::map(latlon_list,1)))) * South
+    names(lat) <- NULL
     
     West = purrr::map(latlon_list,4) == "W"
+    
     West[West==TRUE] <- -1
     West[West==FALSE] <- 1
-    lon <- as.numeric(purrr::map(latlon_list,3)) * West
+    lon <- as.numeric(as.character(unlist(purrr::map(latlon_list,3)))) * West
+    names(lon) <- NULL
     
-    df$Mean_Lat <- mean(lat)
-    df$Mean_Lon <- mean(lon)  
-    
+    df$Mean_Lat <- mean(na.omit(lat))
+    df$Mean_Lon <- mean(na.omit(lon))  
+ 
     
     # assign data frame to object in .globalEnv
     assign(x = paste0("df_",proj_name,"_",y),value = df)
     
-    
-    df
   y=y+1
   }
   

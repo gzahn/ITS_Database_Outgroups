@@ -24,6 +24,11 @@ ITS_directories <- file.path(project_directories,"seqs")
 
 filtpath <- file.path(ITS_directories, "filtered") # Filtered files go into the filtered/ subdirectory
 
+
+# # for testing only
+project_directories <- project_directories[5]
+filtpath <- filtpath[5]
+
 # make directory for filtered fqs if not already present
 for(i in filtpath){
   if(!file_test("-d", i)) dir.create(i) 
@@ -45,6 +50,12 @@ for(i in project_directories){
 
   filts <- file.path(i, "seqs/filtered", paste0(sample.names, "_filt.fastq.gz"))
 
+  # remove any duplicated sequence IDs, especially from SRA dataset
+  duplicatedFiltIDs <- unlist(purrr::map(str_split(basename(filts[which(duplicated(filts) == TRUE)]),"_"),1))
+  goodIDs <- which(unlist(purrr::map(str_split(basename(filts),"_"),1)) %in% duplicatedFiltIDs == FALSE)
+  fns <- fns[goodIDs]
+  filts <- filts[goodIDs]
+  
   # filter and trim
   out <- filterAndTrim(fns, filts,
                        maxN=0, maxEE=c(2), truncQ=2, rm.phix=TRUE,
